@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.5
-'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.5
 'earthquake salvage',en,Mitigation,#00ff00,#00ff00,2,0.5
 'earthquake damage',en,Impacts,#ffff00,#ffff00,2,0.5
-'earthquake death',en,Impacts,#ffff00,#ffff00,2,0.5
 'earthquake victims',en,Impacts,#ffff00,#ffff00,2,0.5
+'earthquake death',en,Impacts,#ffff00,#ffff00,2,0.5
 'earthquake tectonic',en,Causes,#00ffff,#00ffff,2,0.5
+'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.49436749166666666
 'earthquake',en,Hazard,#ff0000,#ff0000,3,0.466692175
 'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.466692175
 'earthquake disaster',en,Hazard,#ff0000,#ff0000,2,0.45
