@@ -1,13 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'earthquake disaster',en,Hazard,#ff0000,#ff0000,3,0.4887913182191858
-'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.4476976829124998
-'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.4248744959375
-'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.4120272512056249
-'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.4045603858749999
-'earthquake tectonic',en,Causes,#00ffff,#00ffff,3,0.3918863582760748
-'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.3893656016151514
-'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.3885220920183823
-'quake injures',en,Impacts,#ffff00,#ffff00,1,0.3862821093982142
-'earthquake victims',en,Impacts,#ffff00,#ffff00,3,0.385716512866638
-'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.3726499635011362
-'earthquake',en,Hazard,#ff0000,#ff0000,3,0.1
+'tsunami',en,Hazard,#ff0000,#ff0000,2,0.7
+'seaquake',en,Causes,#00ffff,#00ffff,2,0.5
+'tsunami warning',en,Mitigation,#00ff00,#00ff00,2,0.5
+'tsunami deaths',en,Impacts,#ffff00,#ffff00,2,0.5
+'tsunami damages',en,Impacts,#ffff00,#ffff00,2,0.5
+'tsunami warning system',en,Adaptation,#0000ff,#0000ff,2,0.44271579112903225
+
