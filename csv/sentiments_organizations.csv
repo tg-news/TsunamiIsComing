@@ -1,84 +1,209 @@
-,phrase,label,sentiment,subjectivity,language,count
-NCS,NCS,ORG,-0.09762962962962964,0.19022222222222224,en,15
-USGS,USGS,ORG,0.020416666666666663,0.36291666666666667,en,10
-the US Geological Survey,the US Geological Survey,ORG,0.011363636363636355,0.24166666666666667,en,6
-BMKG,BMKG,ORG,0.13333333333333333,0.5833333333333334,en,6
-the National Centre for Seismology,the National Centre for Seismology,ORG,-0.26666666666666666,0.3,en,5
-the National Center for Seismology,the National Center for Seismology,ORG,-0.07166666666666666,0.205,en,4
-Geophysics Agency,Geophysics Agency,ORG,0.15000000000000002,0.6875,en,4
-AP,AP,ORG,0.07738095238095237,0.3404761904761905,en,4
-Cascadia,Cascadia,ORG,-0.1414141414141414,0.22676767676767678,en,4
-Fener Greek Orthodox School,Fener Greek Orthodox School,ORG,0.004040404040404035,0.18888888888888888,en,3
-Taliban,Taliban,ORG,0.016666666666666666,0.11944444444444446,en,3
-Campi Flegrei,Campi Flegrei,ORG,0.02070707070707072,0.4366161616161616,en,3
-magnitude-6.3,magnitude-6.3,ORG,0.016666666666666666,0.1111111111111111,en,3
-AFAD,AFAD,ORG,-0.09999999999999999,0.09999999999999999,en,3
-MetMalaysia,MetMalaysia,ORG,0.10833333333333332,0.2416666666666667,en,3
-KUALA LUMPUR,KUALA LUMPUR,ORG,0.16249999999999998,0.21250000000000002,en,2
-The Malaysian Meteorological Department,The Malaysian Meteorological Department,ORG,0.16249999999999998,0.21250000000000002,en,2
-Disaster and Emergency Management Authority,Disaster and Emergency Management Authority,ORG,-0.15,0.15,en,2
-Google,Google,ORG,0.0,0.0,en,2
-The US Geological Survey,The US Geological Survey,ORG,0.04583333333333334,0.4791666666666667,en,2
-SAATNM,SAATNM,ORG,0.16249999999999998,0.21250000000000002,en,2
-National Center for Seismology,National Center for Seismology,ORG,-0.07222222222222223,0.16666666666666666,en,2
-PHT,PHT,ORG,0.2625,0.31875,en,2
-The Japan Air Self-Defense Force,The Japan Air Self-Defense Force,ORG,0.19318181818181818,0.19696969696969696,en,2
-Traveller,Traveller,ORG,-0.5,0.25,en,2
-designboom | architecture & desig,designboom | architecture & desig,ORG,0.024999999999999998,0.0,en,1
-Sci-Fi Western ‘,Sci-Fi Western ‘,ORG,0.0,0.0,en,1
-the Great Assam School Shakeout Programme,the Great Assam School Shakeout Programme,ORG,0.4166666666666667,0.0,en,1
-MyanmarWhen,MyanmarWhen,ORG,-0.5,0.0,en,1
-Seismometers,Seismometers,ORG,-0.1811111111111111,0.0,en,1
-blue temple,blue temple,ORG,-0.1,0.0,en,1
-Department of Mineral and Geoscience,Department of Mineral and Geoscience,ORG,0.0,0.0,en,1
-the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.3333333333333333,0.0,en,1
-Islam,Islam,ORG,-0.25,0.0,en,1
-NCS).As,NCS).As,ORG,-0.3333333333333333,0.0,en,1
-Columbia Memorial Hospital,Columbia Memorial Hospital,ORG,0.1,0.0,en,1
-MIA,MIA,ORG,0.0,0.0,en,1
-FEMA,FEMA,ORG,0.0,0.0,en,1
-SafeTaiwans,SafeTaiwans,ORG,0.4590909090909091,0.0,en,1
-SafeTaiwan,SafeTaiwan,ORG,0.4590909090909091,0.0,en,1
-the Karnataka State Natural Disaster Monitoring Centre,the Karnataka State Natural Disaster Monitoring Centre,ORG,0.21666666666666667,0.0,en,1
-saysThe Washington Post,saysThe Washington Post,ORG,-0.013888888888888886,0.0,en,1
-The Washington Post,The Washington Post,ORG,0.0,0.0,en,1
-the Disaster and Emergency Management Authority,the Disaster and Emergency Management Authority,ORG,0.0,0.0,en,1
-kille,kille,ORG,-0.3,0.0,en,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+AP,AP,ORG,0.027703373015873008,0.3046819196428572,en,16,,,,,,
+NCS,NCS,ORG,-0.09556423611111112,0.19981770833333334,en,16,,,,,,
+USGS,USGS,ORG,0.014583333333333332,0.2949404761904762,en,14,,,,,,
+BMKG,BMKG,ORG,0.13333333333333333,0.5833333333333334,en,6,,,,,,
+the US Geological Survey,the US Geological Survey,ORG,0.011363636363636355,0.24166666666666667,en,6,,,,,,
+Taliban,Taliban,ORG,-0.015462962962962965,0.16805555555555554,en,6,,,,,,
+the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.2518518518518518,0.4601851851851852,en,6,,,,,,
+the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.13472222222222222,0.42013888888888884,en,6,,,,,,
+the National Center for Seismology,the National Center for Seismology,ORG,-0.07024999999999999,0.23274999999999996,en,5,,,,,,
+UN,UN,ORG,0.0786060606060606,0.4519090909090909,en,5,,,,,,
+Trump,Trump,ORG,0.10666666666666666,0.39555555555555555,en,5,,,,,,
+Kalmaegi,Kalmaegi,ORG,0.010285714285714287,0.129,en,5,,,,,,
+the National Centre for Seismology,the National Centre for Seismology,ORG,-0.26666666666666666,0.3,en,5,,,,,,
+Cascadia,Cascadia,ORG,-0.1414141414141414,0.22676767676767678,en,4,,,,,,
+Hamas,Hamas,ORG,0.07499999999999998,0.4625,en,4,,,,,,
+Geophysics Agency,Geophysics Agency,ORG,0.15000000000000002,0.6875,en,4,,,,,,
+Java,Java,ORG,0.4125,0.675,en,4,,,,,,
+GST,GST,ORG,0.04791666666666666,0.3125,en,3,,,,,,
+Campi Flegrei,Campi Flegrei,ORG,0.02070707070707072,0.4366161616161616,en,3,,,,,,
+magnitude-6.3,magnitude-6.3,ORG,0.016666666666666666,0.1111111111111111,en,3,,,,,,
+McEWEN,McEWEN,ORG,-0.05000000000000001,0.3666666666666667,en,3,,,,,,
+Fener Greek Orthodox School,Fener Greek Orthodox School,ORG,0.004040404040404035,0.18888888888888888,en,3,,,,,,
+AFAD,AFAD,ORG,-0.09999999999999999,0.09999999999999999,en,3,,,,,,
+MetMalaysia,MetMalaysia,ORG,0.10833333333333332,0.2416666666666667,en,3,,,,,,
+the White House,the White House,ORG,-0.1074074074074074,0.18703703703703703,en,3,,,,,,
+The Conversation New Zealand,The Conversation New Zealand,ORG,0.10606060606060604,0.20202020202020202,en,3,,,,,,
+Associated Press,Associated Press,ORG,0.19345238095238093,0.24285714285714288,en,3,,,,,,
+TNI,TNI,ORG,-0.03333333333333333,0.016666666666666666,en,2,,,,,,
+The Supreme Court,The Supreme Court,ORG,0.0,0.0,en,2,,,,,,
+ABC,ABC,ORG,0.004166666666666669,0.0,en,2,,,,,,
+National Center for Seismology,National Center for Seismology,ORG,-0.07222222222222223,0.16666666666666666,en,2,,,,,,
+Imperial Forum,Imperial Forum,ORG,-0.04166666666666667,0.05555555555555555,en,2,,,,,,
+Mineral and Geoscience Department,Mineral and Geoscience Department,ORG,0.05833333333333333,0.30833333333333335,en,2,,,,,,
+New Zealand Herald,New Zealand Herald,ORG,0.0909090909090909,0.15151515151515152,en,2,,,,,,
+the Office of the Spokesperson,the Office of the Spokesperson,ORG,0.0,0.0,en,2,,,,,,
+Perak,Perak,ORG,0.05833333333333333,0.30833333333333335,en,2,,,,,,
+KUALA LUMPUR,KUALA LUMPUR,ORG,0.16249999999999998,0.21250000000000002,en,2,,,,,,
+the Political Action Committee,the Political Action Committee,ORG,0.11666666666666665,0.075,en,2,,,,,,
+CSW,CSW,ORG,-0.0234375,0.05535714285714285,en,2,,,,,,
+Godzilla Day,Godzilla Day,ORG,-0.125,0.1875,en,2,,,,,,
+COVID,COVID,ORG,-0.09375,0.17465277777777777,en,2,,,,,,
+The Bad News Bears,The Bad News Bears,ORG,-0.3624999999999999,0.33194444444444443,en,2,,,,,,
+Daily Press Briefing,Daily Press Briefing,ORG,0.0,0.0,en,2,,,,,,
+SAATNM,SAATNM,ORG,0.16249999999999998,0.21250000000000002,en,2,,,,,,
+The Malaysian Meteorological Department,The Malaysian Meteorological Department,ORG,0.16249999999999998,0.21250000000000002,en,2,,,,,,
+Greater Sudbury,Greater Sudbury,ORG,0.26666666666666666,0.31666666666666665,en,2,,,,,,
+Porsche,Porsche,ORG,0.06818181818181818,0.22727272727272727,en,2,,,,,,
+the Indonesian National Armed Forces,the Indonesian National Armed Forces,ORG,-0.03333333333333333,0.016666666666666666,en,2,,,,,,
+Disaster and Emergency Management Authority,Disaster and Emergency Management Authority,ORG,-0.15,0.15,en,2,,,,,,
+TGFM,TGFM,ORG,0.0,0.0,en,2,,,,,,
+TIFFCOM,TIFFCOM,ORG,0.0,0.0,en,2,,,,,,
+Google,Google,ORG,0.0,0.0,en,2,,,,,,
+Iwate,Iwate,ORG,0.125,0.16666666666666666,en,2,,,,,,
+EU,EU,ORG,0.05,0.325,en,2,,,,,,
+the Juan de Fuca Plate,the Juan de Fuca Plate,ORG,0.11666666666666665,0.16666666666666666,en,2,,,,,,
+Traveller,Traveller,ORG,-0.5,0.25,en,2,,,,,,
+The Japan Air Self-Defense Force,The Japan Air Self-Defense Force,ORG,0.19318181818181818,0.19696969696969696,en,2,,,,,,
+Chunghwa Telecom,Chunghwa Telecom,ORG,0.28125,0.375,en,2,,,,,,
+The World Health Organisation,The World Health Organisation,ORG,-0.04,0.20999999999999996,en,2,,,,,,
+NCS).As,NCS).As,ORG,-0.19895833333333332,0.171875,en,2,,,,,,
+Ethnic Armed Organizations,Ethnic Armed Organizations,ORG,-0.1,0.05,en,2,,,,,,
+PHT,PHT,ORG,0.2625,0.31875,en,2,,,,,,
+Los Angeles Times,Los Angeles Times,ORG,0.0,0.0,en,2,,,,,,
+The US Geological Survey,The US Geological Survey,ORG,0.04583333333333334,0.4791666666666667,en,2,,,,,,
+saysThe Washington Post,saysThe Washington Post,ORG,-0.013888888888888886,0.0,en,1,,,,,,
+Eastern,Eastern,ORG,0.5,0.0,en,1,,,,,,
+Casualty Figures ',Casualty Figures ',ORG,-0.16666666666666666,0.0,en,1,,,,,,
 "NewsFeed
 ","NewsFeed
-",ORG,0.0,0.0,en,1
-the White House,the White House,ORG,0.0,0.0,en,1
-Eastern,Eastern,ORG,0.5,0.0,en,1
-Geological Survey,Geological Survey,ORG,0.1,0.0,en,1
-Newsweek,Newsweek,ORG,0.06628787878787878,0.0,en,1
-Blu,Blu,ORG,-0.18,0.0,en,1
-Live Updates,Live Updates,ORG,0.09943181818181818,0.0,en,1
-State Disaster Management Force,State Disaster Management Force,ORG,0.0,0.0,en,1
-the “Big One”,the “Big One”,ORG,0.0,0.0,en,1
-Android,Android,ORG,0.0,0.0,en,1
-iPhone,iPhone,ORG,0.0,0.0,en,1
-Indigenous Women’s Rights Violated,Indigenous Women’s Rights Violated,ORG,0.25,0.0,en,1
-Ms.,Ms.,ORG,-0.19999999999999998,0.0,en,1
-un,un,ORG,-0.19999999999999998,0.0,en,1
-Bogo,Bogo,ORG,0.0,0.0,en,1
-Phivolcs,Phivolcs,ORG,0.075,0.0,en,1
-Nanusa,Nanusa,ORG,0.30000000000000004,0.0,en,1
-The Pacific Tsunami Warning Center,The Pacific Tsunami Warning Center,ORG,-0.05,0.0,en,1
-Cascadia Earthquake Faults May Be Linked,Cascadia Earthquake Faults May Be Linked,ORG,0.0,0.0,en,1
-Philippine News Agency,Philippine News Agency,ORG,0.19318181818181818,0.0,en,1
-Oregon State University,Oregon State University,ORG,-0.25,0.0,en,1
-PHIVOLCS,PHIVOLCS,ORG,0.0,0.0,en,1
-the Volcano Monitoring and Eruption Prediction Division,the Volcano Monitoring and Eruption Prediction Division,ORG,0.14444444444444443,0.0,en,1
-the Philippine Institute of …,the Philippine Institute of …,ORG,0.14444444444444443,0.0,en,1
-the Volcano Monitoring,the Volcano Monitoring,ORG,0.0,0.0,en,1
-Türkiyes,Türkiyes,ORG,0.016666666666666663,0.0,en,1
-the Biggest Fault Lines,the Biggest Fault Lines,ORG,0.0,0.0,en,1
-"the ""Big One""","the ""Big One""",ORG,0.1875,0.0,en,1
-The National Center for Seismology,The National Center for Seismology,ORG,-0.1,0.0,en,1
-ChatGPT,ChatGPT,ORG,-0.3333333333333333,0.0,en,1
-ANI,ANI,ORG,-0.3333333333333333,0.0,en,1
-Lat,Lat,ORG,-0.05,0.0,en,1
-Negeri Sembilan,Negeri Sembilan,ORG,0.0,0.0,en,1
-Johari,Johari,ORG,0.0,0.0,en,1
-the Dewan Rakyat,the Dewan Rakyat,ORG,0.1,0.0,en,1
-the Land of Tea,the Land of Tea,ORG,0.0,0.0,en,1
+",ORG,0.0,0.0,en,1,,,,,,
+the Disaster and Emergency Management Authority,the Disaster and Emergency Management Authority,ORG,0.0,0.0,en,1,,,,,,
+the World Health Organization,the World Health Organization,ORG,0.0,0.0,en,1,,,,,,
+Peoples' Review,Peoples' Review,ORG,0.175,0.0,en,1,,,,,,
+performatively,performatively,ORG,0.16666666666666666,0.0,en,1,,,,,,
+a UN Disaster Assessment,a UN Disaster Assessment,ORG,0.25,0.0,en,1,,,,,,
+the National Oceanographic and Atmospheric Administration,the National Oceanographic and Atmospheric Administration,ORG,0.0,0.0,en,1,,,,,,
+NOAA,NOAA,ORG,0.0,0.0,en,1,,,,,,
+the German Research Centre for Geosciences (GFZ,the German Research Centre for Geosciences (GFZ,ORG,0.0,0.0,en,1,,,,,,
+Islam,Islam,ORG,-0.25,0.0,en,1,,,,,,
+The Washington Post,The Washington Post,ORG,0.0,0.0,en,1,,,,,,
+GFZ,GFZ,ORG,0.0,0.0,en,1,,,,,,
+kille,kille,ORG,-0.3,0.0,en,1,,,,,,
+The Central Emergency Response Fund,The Central Emergency Response Fund,ORG,0.0,0.0,en,1,,,,,,
+Department of Mineral and Geoscience,Department of Mineral and Geoscience,ORG,0.0,0.0,en,1,,,,,,
+AP) Firefighters,AP) Firefighters,ORG,-0.10000000000000002,0.0,en,1,,,,,,
+LSTM,LSTM,ORG,-0.2833333333333333,0.0,en,1,,,,,,
+Toho ULTIMATES,Toho ULTIMATES,ORG,-0.024999999999999994,0.0,en,1,,,,,,
+Cebu,Cebu,ORG,-0.5,0.0,en,1,,,,,,
+UNXT,UNXT,ORG,0.0,0.0,en,1,,,,,,
+Kazumasa,Kazumasa,ORG,0.1,0.0,en,1,,,,,,
+GPAA,GPAA,ORG,0.08333333333333333,0.0,en,1,,,,,,
+Chunghwa Telecom Unveils,Chunghwa Telecom Unveils,ORG,0.0,0.0,en,1,,,,,,
+the Land of Tea,the Land of Tea,ORG,0.0,0.0,en,1,,,,,,
+The Japan Meteorological Agency,The Japan Meteorological Agency,ORG,0.0,0.0,en,1,,,,,,
+Medieval Tower,Medieval Tower,ORG,0.0,0.0,en,1,,,,,,
+JMA,JMA,ORG,0.0,0.0,en,1,,,,,,
+Malatesta,Malatesta,ORG,0.0,0.0,en,1,,,,,,
+Super Typhoon Uwan,Super Typhoon Uwan,ORG,0.18888888888888888,0.0,en,1,,,,,,
+Royal NZ Ballet,Royal NZ Ballet,ORG,0.0,0.0,en,1,,,,,,
+St James Theatre,St James Theatre,ORG,0.0,0.0,en,1,,,,,,
+The World,The World,ORG,0.0,0.0,en,1,,,,,,
+The U.S. Tsunami Warning System Is Crumbling,The U.S. Tsunami Warning System Is Crumbling,ORG,0.0,0.0,en,1,,,,,,
+Kills Worker,Kills Worker,ORG,0.0,0.0,en,1,,,,,,
+UN News,UN News,ORG,0.056666666666666664,0.0,en,1,,,,,,
+the Karnataka State Natural Disaster Monitoring Centre,the Karnataka State Natural Disaster Monitoring Centre,ORG,0.21666666666666667,0.0,en,1,,,,,,
+IPOH,IPOH,ORG,0.0,0.0,en,1,,,,,,
+Christian Solidarity Worldwide,Christian Solidarity Worldwide,ORG,-0.021875,0.0,en,1,,,,,,
+Getty/iStock,Getty/iStock,ORG,-0.024999999999999998,0.0,en,1,,,,,,
+RFE/RL's,RFE/RL's,ORG,0.04,0.0,en,1,,,,,,
+Radio Azadi,Radio Azadi,ORG,0.04,0.0,en,1,,,,,,
+Theater,Theater,ORG,-0.3499999999999999,0.0,en,1,,,,,,
+Carrera,Carrera,ORG,0.13636363636363635,0.0,en,1,,,,,,
+Godzilla Heads,Godzilla Heads,ORG,0.0,0.0,en,1,,,,,,
+The Office for the Coordination of Humanitarian Affairs,The Office for the Coordination of Humanitarian Affairs,ORG,0.5,0.0,en,1,,,,,,
+World News,World News,ORG,0.0,0.0,en,1,,,,,,
+El Niño,El Niño,ORG,0.0,0.0,en,1,,,,,,
+SafeTaiwan,SafeTaiwan,ORG,0.4590909090909091,0.0,en,1,,,,,,
+SafeTaiwans,SafeTaiwans,ORG,0.4590909090909091,0.0,en,1,,,,,,
+CEBU,CEBU,ORG,-0.2,0.0,en,1,,,,,,
+FEMA,FEMA,ORG,0.0,0.0,en,1,,,,,,
+MIA,MIA,ORG,0.0,0.0,en,1,,,,,,
+Columbia Memorial Hospital,Columbia Memorial Hospital,ORG,0.1,0.0,en,1,,,,,,
+Fortunes Improve,Fortunes Improve,ORG,0.0,0.0,en,1,,,,,,
+Spotify,Spotify,ORG,0.2,0.0,en,1,,,,,,
+"Getty Images
+","Getty Images
+",ORG,0.0,0.0,en,1,,,,,,
+upri,upri,ORG,0.13636363636363635,0.0,en,1,,,,,,
+the Volcano Monitoring and Eruption Prediction Division,the Volcano Monitoring and Eruption Prediction Division,ORG,0.14444444444444443,0.0,en,1,,,,,,
+the Philippine Institute of …,the Philippine Institute of …,ORG,0.14444444444444443,0.0,en,1,,,,,,
+the Volcano Monitoring,the Volcano Monitoring,ORG,0.0,0.0,en,1,,,,,,
+Türkiyes,Türkiyes,ORG,0.016666666666666663,0.0,en,1,,,,,,
+the Biggest Fault Lines,the Biggest Fault Lines,ORG,0.0,0.0,en,1,,,,,,
+BallxPit,BallxPit,ORG,0.35,0.0,en,1,,,,,,
+Kotaku,Kotaku,ORG,0.16999999999999998,0.0,en,1,,,,,,
+Time,Time,ORG,0.2,0.0,en,1,,,,,,
+Supreme Court,Supreme Court,ORG,0.0,0.0,en,1,,,,,,
+Irish Times,Irish Times,ORG,0.0,0.0,en,1,,,,,,
+TD,TD,ORG,0.12916666666666668,0.0,en,1,,,,,,
+"the ""Big One""","the ""Big One""",ORG,0.1875,0.0,en,1,,,,,,
+US Supreme Court,US Supreme Court,ORG,0.0,0.0,en,1,,,,,,
+Vot,Vot,ORG,0.0,0.0,en,1,,,,,,
+Great California Shakeout,Great California Shakeout,ORG,0.45,0.0,en,1,,,,,,
+Great California ShakeOut,Great California ShakeOut,ORG,0.3,0.0,en,1,,,,,,
+Pentagon,Pentagon,ORG,-0.2,0.0,en,1,,,,,,
+PHIVOLCS,PHIVOLCS,ORG,0.0,0.0,en,1,,,,,,
+Oregon State University,Oregon State University,ORG,-0.25,0.0,en,1,,,,,,
+Seismometers,Seismometers,ORG,-0.1811111111111111,0.0,en,1,,,,,,
+State Security and Peace Commission,State Security and Peace Commission,ORG,-0.1,0.0,en,1,,,,,,
+the “Big One”,the “Big One”,ORG,0.0,0.0,en,1,,,,,,
+Android,Android,ORG,0.0,0.0,en,1,,,,,,
+iPhone,iPhone,ORG,0.0,0.0,en,1,,,,,,
+Indigenous Women’s Rights Violated,Indigenous Women’s Rights Violated,ORG,0.25,0.0,en,1,,,,,,
+Ms.,Ms.,ORG,-0.19999999999999998,0.0,en,1,,,,,,
+un,un,ORG,-0.19999999999999998,0.0,en,1,,,,,,
+Bogo,Bogo,ORG,0.0,0.0,en,1,,,,,,
+Phivolcs,Phivolcs,ORG,0.075,0.0,en,1,,,,,,
+Nanusa,Nanusa,ORG,0.30000000000000004,0.0,en,1,,,,,,
+The Pacific Tsunami Warning Center,The Pacific Tsunami Warning Center,ORG,-0.05,0.0,en,1,,,,,,
+Cascadia Earthquake Faults May Be Linked,Cascadia Earthquake Faults May Be Linked,ORG,0.0,0.0,en,1,,,,,,
+Philippine Institute of Seismo,Philippine Institute of Seismo,ORG,0.0,0.0,en,1,,,,,,
+Philippine News Agency,Philippine News Agency,ORG,0.19318181818181818,0.0,en,1,,,,,,
+6-Year-Old's,6-Year-Old's,ORG,0.0,0.0,en,1,,,,,,
+iden,iden,ORG,-0.05,0.0,en,1,,,,,,
+CYBERJAYA,CYBERJAYA,ORG,-0.04,0.0,en,1,,,,,,
+the United Nations General Assembly,the United Nations General Assembly,ORG,0.03571428571428571,0.0,en,1,,,,,,
+Murayama,Murayama,ORG,0.0,0.0,en,1,,,,,,
+Riverside Church,Riverside Church,ORG,0.13636363636363635,0.0,en,1,,,,,,
+Rolling Stone,Rolling Stone,ORG,-0.2,0.0,en,1,,,,,,
+Sportico,Sportico,ORG,-0.2,0.0,en,1,,,,,,
+State Disaster Management Force,State Disaster Management Force,ORG,0.0,0.0,en,1,,,,,,
+Xinhua news agency,Xinhua news agency,ORG,0.0,0.0,en,1,,,,,,
+Sci,Sci,ORG,0.0,0.0,en,1,,,,,,
+Podcast Transcript Located,Podcast Transcript Located,ORG,0.0,0.0,en,1,,,,,,
+Negeri Sembilan,Negeri Sembilan,ORG,0.0,0.0,en,1,,,,,,
+U.S. Geological Survey,U.S. Geological Survey,ORG,0.0,0.0,en,1,,,,,,
+Live Updates,Live Updates,ORG,0.09943181818181818,0.0,en,1,,,,,,
+Geological Survey,Geological Survey,ORG,0.1,0.0,en,1,,,,,,
+Newsweek,Newsweek,ORG,0.06628787878787878,0.0,en,1,,,,,,
+Sci-Fi Western ‘,Sci-Fi Western ‘,ORG,0.0,0.0,en,1,,,,,,
+blue temple,blue temple,ORG,-0.1,0.0,en,1,,,,,,
+designboom | architecture & desig,designboom | architecture & desig,ORG,0.024999999999999998,0.0,en,1,,,,,,
+The Photojournalism Archive,The Photojournalism Archive,ORG,0.0,0.0,en,1,,,,,,
+MyanmarWhen,MyanmarWhen,ORG,-0.5,0.0,en,1,,,,,,
+the Great Assam School Shakeout Programme,the Great Assam School Shakeout Programme,ORG,0.4166666666666667,0.0,en,1,,,,,,
+PPC,PPC,ORG,0.1,0.0,en,1,,,,,,
+Public Power Corporation,Public Power Corporation,ORG,0.1,0.0,en,1,,,,,,
+USA Today… Skip,USA Today… Skip,ORG,0.17777777777777778,0.0,en,1,,,,,,
+Earthquakes Canada,Earthquakes Canada,ORG,0.0,0.0,en,1,,,,,,
+Manu Josephs,Manu Josephs,ORG,0.15000000000000002,0.0,en,1,,,,,,
+Amityville Horror House,Amityville Horror House,ORG,-0.5166666666666666,0.0,en,1,,,,,,
+the Riverside Church Hawks,the Riverside Church Hawks,ORG,-0.15,0.0,en,1,,,,,,
+Metal Hammer,Metal Hammer,ORG,0.21875,0.0,en,1,,,,,,
+AFP,AFP,ORG,0.0,0.0,en,1,,,,,,
+The National Center for Seismology,The National Center for Seismology,ORG,-0.1,0.0,en,1,,,,,,
++1864,+1864,ORG,0.0,0.0,en,1,,,,,,
+ChatGPT,ChatGPT,ORG,-0.3333333333333333,0.0,en,1,,,,,,
+ANI,ANI,ORG,-0.3333333333333333,0.0,en,1,,,,,,
+Canaves Collection,Canaves Collection,ORG,0.0,0.0,en,1,,,,,,
+Early Warning Systems,Early Warning Systems,ORG,0.3,0.0,en,1,,,,,,
+Thera,Thera,ORG,0.2555555555555556,0.0,en,1,,,,,,
+Fukushima Innovation Coast Framework,Fukushima Innovation Coast Framework,ORG,0.0,0.0,en,1,,,,,,
+Lat,Lat,ORG,-0.05,0.0,en,1,,,,,,
+Blu,Blu,ORG,-0.18,0.0,en,1,,,,,,
+KPBS Midday Edition,KPBS Midday Edition,ORG,0.0,0.0,en,1,,,,,,
+Johari,Johari,ORG,0.0,0.0,en,1,,,,,,
+the Dewan Rakyat,the Dewan Rakyat,ORG,0.1,0.0,en,1,,,,,,
+The Nation,The Nation,ORG,0.25,0.0,en,1,,,,,,
