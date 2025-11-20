@@ -1,20 +1,20 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Vladimir Putin,Vladimir Putin,PERSON,0.04421212121212121,0.3056515151515152,en,5,,,,,,
-Trisha Paytas,Trisha Paytas,PERSON,0.03796296296296295,0.4300925925925926,en,2,,,,,,
-Lukas Gage,Lukas Gage,PERSON,0.03796296296296295,0.4300925925925926,en,2,,,,,,
-PETALING JAYA,PETALING JAYA,PERSON,0.4125,0.6875,en,2,,,,,,
-Alexander Limbach,Alexander Limbach,PERSON,-0.05,0.2,en,2,,,,,,
-Daniel Priestley,Daniel Priestley,PERSON,0.0,0.0,en,2,,,,,,
-Sean Astin,Sean Astin,PERSON,0.0,0.1,en,2,,,,,,
-Nitish Kumar,Nitish Kumar,PERSON,0.45,0.45,en,2,,,,,,
-Lukas Gage Cries,Lukas Gage Cries,PERSON,0.0,0.0,en,1,,,,,,
-Nicolas Hulscher,Nicolas Hulscher,PERSON,0.0,0.0,en,1,,,,,,
-Chris Appleton,Chris Appleton,PERSON,0.03253968253968253,0.3686507936507937,en,1,,,,,,
-Diane Smith,Diane Smith,PERSON,0.0,1.0,en,1,,,,,,
-Les Vugec,Les Vugec,PERSON,0.0,1.0,en,1,,,,,,
-+3284 chars,+3284 chars,PERSON,0.0,0.0,en,1,,,,,,
-Erik Thorsen,Erik Thorsen,PERSON,0.1,0.1,en,1,,,,,,
-Elon Musk,Elon Musk,PERSON,0.0,0.5625,en,1,,,,,,
-Anne South,Anne South,PERSON,0.0,0.0,en,1,,,,,,
-Narendra Modi,Narendra Modi,PERSON,0.5,1.0,en,1,,,,,,
-Sean Astin Sounds Off,Sean Astin Sounds Off,PERSON,0.0,0.0,en,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+PETALING JAYA,PETALING JAYA,PERSON,0.4342105263157895,0.7236842105263158,en,1.9
+Nitish Kumar,Nitish Kumar,PERSON,0.75,0.75,en,1.2
+Lukas Gage,Lukas Gage,PERSON,0.06902356902356899,0.7819865319865319,en,1.1
+Trisha Paytas,Trisha Paytas,PERSON,0.06902356902356899,0.7819865319865319,en,1.1
+Les Vugec,Les Vugec,PERSON,0.0,1.0,en,1.0
+Diane Smith,Diane Smith,PERSON,0.0,1.0,en,1.0
+Nicolas Hulscher,Nicolas Hulscher,PERSON,0.0,0.0,en,1.0
+Lukas Gage Cries,Lukas Gage Cries,PERSON,0.0,0.0,en,1.0
++3284 chars,+3284 chars,PERSON,0.0,0.0,en,1.0
+Sean Astin,Sean Astin,PERSON,0.0,0.2,en,1.0
+Chris Appleton,Chris Appleton,PERSON,0.03253968253968253,0.3686507936507937,en,1.0
+Vladimir Putin,Vladimir Putin,PERSON,0.22106060606060604,1.5282575757575758,en,1.0
+Daniel Priestley,Daniel Priestley,PERSON,0.0,0.0,en,1.0
+Alexander Limbach,Alexander Limbach,PERSON,-0.1,0.4,en,1.0
+Erik Thorsen,Erik Thorsen,PERSON,0.1,0.1,en,1.0
+Elon Musk,Elon Musk,PERSON,0.0,0.5625,en,1.0
+Anne South,Anne South,PERSON,0.0,0.0,en,1.0
+Narendra Modi,Narendra Modi,PERSON,0.5,1.0,en,1.0
+Sean Astin Sounds Off,Sean Astin Sounds Off,PERSON,0.0,0.0,en,1.0

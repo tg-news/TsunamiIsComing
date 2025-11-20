@@ -1,64 +1,66 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.20104166666666665,0.328125,en,8,,,,,,
-NDA,NDA,ORG,0.42512626262626263,0.48143939393939394,en,6,,,,,,
-AI,AI,ORG,0.0,0.0,en,5,,,,,,
-A.I.,A.I.,ORG,0.06818181818181818,0.16363636363636364,en,4,,,,,,
-Apple,Apple,ORG,-0.078125,0.0,en,4,,,,,,
-MetMalaysia,MetMalaysia,ORG,0.18958333333333333,0.36458333333333337,en,4,,,,,,
-Pfizer,Pfizer,ORG,-0.02121212121212122,0.25833333333333336,en,3,,,,,,
-SAATNM,SAATNM,ORG,0.16249999999999998,0.21250000000000002,en,2,,,,,,
-UN,UN,ORG,0.028333333333333332,0.0,en,2,,,,,,
-Elon Musk,Elon Musk,ORG,0.1,0.0,en,2,,,,,,
-Meteorological Agency,Meteorological Agency,ORG,-0.06666666666666667,0.15,en,2,,,,,,
-Goldman Sachs,Goldman Sachs,ORG,-0.05,0.2,en,2,,,,,,
-NATO,NATO,ORG,-0.13333333333333333,0.1125,en,2,,,,,,
-Iwate,Iwate,ORG,0.125,0.16666666666666666,en,2,,,,,,
-the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.4125,0.3208333333333333,en,2,,,,,,
-Manufacturing Dive,Manufacturing Dive,ORG,0.25416666666666665,0.13333333333333333,en,2,,,,,,
-liftedCBS News,liftedCBS News,ORG,0.1873917748917749,0.2513257575757576,en,2,,,,,,
-The Malaysian Meteorological Department,The Malaysian Meteorological Department,ORG,0.16249999999999998,0.21250000000000002,en,2,,,,,,
-KUALA LUMPUR,KUALA LUMPUR,ORG,0.16249999999999998,0.21250000000000002,en,2,,,,,,
-MGB,MGB,ORG,0.09204545454545454,0.3068181818181818,en,2,,,,,,
-Depo-Provera,Depo-Provera,ORG,-0.1,0.0,en,2,,,,,,
-M5,M5,ORG,0.0,0.0,en,2,,,,,,
-World News,World News,ORG,0.0,0.10833333333333334,en,2,,,,,,
-Tsunami Advisory Issued for Iwate,Tsunami Advisory Issued for Iwate,ORG,0.0,0.0,en,1,,,,,,
-IWATE,IWATE,ORG,0.0,0.0,en,1,,,,,,
-AP News,AP News,ORG,0.3,0.0,en,1,,,,,,
-FAA,FAA,ORG,-0.20000000000000004,0.0,en,1,,,,,,
-CBS News,CBS News,ORG,0.15,0.0,en,1,,,,,,
-Super Typhoon Uwan,Super Typhoon Uwan,ORG,0.18888888888888888,0.0,en,1,,,,,,
-NOAA,NOAA,ORG,0.125,0.0,en,1,,,,,,
-Trump,Trump,ORG,-0.20000000000000004,0.0,en,1,,,,,,
-National Democratic Alliance,National Democratic Alliance,ORG,0.5,0.0,en,1,,,,,,
-FedE,FedE,ORG,-0.20000000000000004,0.0,en,1,,,,,,
-UPS,UPS,ORG,-0.20000000000000004,0.0,en,1,,,,,,
-NHK,NHK,ORG,0.0,0.0,en,1,,,,,,
-NDA tsunami &,NDA tsunami &,ORG,0.0,0.0,en,1,,,,,,
-UN News,UN News,ORG,0.056666666666666664,0.0,en,1,,,,,,
-the Japan Meteorological Agency TOKYO,the Japan Meteorological Agency TOKYO,ORG,0.275,0.0,en,1,,,,,,
-IMAGO,IMAGO,ORG,-0.1,0.0,en,1,,,,,,
-Columbia Memorial Hospital,Columbia Memorial Hospital,ORG,0.1,0.0,en,1,,,,,,
-MIA,MIA,ORG,0.0,0.0,en,1,,,,,,
-State Emergency Service,State Emergency Service,ORG,-0.2,0.0,en,1,,,,,,
-the Bureau of Meteorology,the Bureau of Meteorology,ORG,-0.2,0.0,en,1,,,,,,
-SES,SES,ORG,0.0,0.0,en,1,,,,,,
-Birth Control Shot,Birth Control Shot,ORG,0.13636363636363635,0.0,en,1,,,,,,
-AP,AP,ORG,0.3,0.0,en,1,,,,,,
-Mac,Mac,ORG,-0.3125,0.0,en,1,,,,,,
-Johari,Johari,ORG,0.0,0.0,en,1,,,,,,
-the Dewan Rakyat,the Dewan Rakyat,ORG,0.1,0.0,en,1,,,,,,
-Basel Action Network,Basel Action Network,ORG,0.10803571428571429,0.0,en,1,,,,,,
-BMKG,BMKG,ORG,0.1,0.0,en,1,,,,,,
-JAKARTA,JAKARTA,ORG,0.22499999999999998,0.0,en,1,,,,,,
-BMK,BMK,ORG,0.22499999999999998,0.0,en,1,,,,,,
-Nucor,Nucor,ORG,-0.1,0.0,en,1,,,,,,
-Nucor Corp.,Nucor Corp.,ORG,0.0,0.0,en,1,,,,,,
-Burevestnik,Burevestnik,ORG,-0.2,0.0,en,1,,,,,,
-Putinâs,Putinâs,ORG,0.0,0.0,en,1,,,,,,
-Corporate America,Corporate America,ORG,0.0,0.0,en,1,,,,,,
-USGS,USGS,ORG,-0.08333333333333333,0.0,en,1,,,,,,
-Reuters,Reuters,ORG,-0.1,0.0,en,1,,,,,,
-Reuters ConnectThe AI revolution,Reuters ConnectThe AI revolution,ORG,0.0,0.0,en,1,,,,,,
-FEMA,FEMA,ORG,0.0,0.0,en,1,,,,,,
-Mahagathbandhan,Mahagathbandhan,ORG,0.18409090909090908,0.0,en,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.2203196347031963,0.35958904109589035,en,7.300000000000001
+MetMalaysia,MetMalaysia,ORG,0.20495495495495497,0.3941441441441442,en,3.6999999999999997
+World News,World News,ORG,0.02023809523809524,0.230952380952381,en,2.8
+SAATNM,SAATNM,ORG,0.17105263157894735,0.22368421052631582,en,1.9
+Iwate,Iwate,ORG,0.13157894736842105,0.17543859649122806,en,1.9
+Meteorological Agency,Meteorological Agency,ORG,-0.07017543859649122,0.15789473684210525,en,1.9
+The Malaysian Meteorological Department,The Malaysian Meteorological Department,ORG,0.17105263157894735,0.22368421052631582,en,1.9
+KUALA LUMPUR,KUALA LUMPUR,ORG,0.17105263157894735,0.22368421052631582,en,1.9
+liftedCBS News,liftedCBS News,ORG,0.19725449988607885,0.26455342902711326,en,1.9
+the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.4342105263157895,0.33771929824561403,en,1.9
+UN,UN,ORG,0.02982456140350877,0.0,en,1.9
+NDA,NDA,ORG,1.4170875420875422,1.6047979797979797,en,1.8
+Pfizer,Pfizer,ORG,-0.05303030303030304,0.6458333333333333,en,1.2000000000000002
+MGB,MGB,ORG,0.1534090909090909,0.5113636363636364,en,1.2
+Depo-Provera,Depo-Provera,ORG,-0.18181818181818182,0.0,en,1.1
+Manufacturing Dive,Manufacturing Dive,ORG,0.46212121212121204,0.2424242424242424,en,1.1
+NHK,NHK,ORG,0.0,0.0,en,1.0
+Elon Musk,Elon Musk,ORG,0.2,0.0,en,1.0
+FedE,FedE,ORG,-0.20000000000000004,0.0,en,1.0
+"UN News
+","UN News
+",ORG,0.056666666666666664,0.0,en,1.0
+the Japan Meteorological Agency TOKYO,the Japan Meteorological Agency TOKYO,ORG,0.275,0.0,en,1.0
+UPS,UPS,ORG,-0.20000000000000004,0.0,en,1.0
+A.I.,A.I.,ORG,0.2727272727272727,0.6545454545454545,en,1.0
+Tsunami Advisory Issued for Iwate,Tsunami Advisory Issued for Iwate,ORG,0.0,0.0,en,1.0
+IWATE,IWATE,ORG,0.0,0.0,en,1.0
+FAA,FAA,ORG,-0.20000000000000004,0.0,en,1.0
+MIA,MIA,ORG,0.0,0.0,en,1.0
+Trump,Trump,ORG,-0.20000000000000004,0.0,en,1.0
+CBS News,CBS News,ORG,0.15,0.0,en,1.0
+AP News,AP News,ORG,0.3,0.0,en,1.0
+Super Typhoon Uwan,Super Typhoon Uwan,ORG,0.18888888888888888,0.0,en,1.0
+NOAA,NOAA,ORG,0.125,0.0,en,1.0
+National Democratic Alliance,National Democratic Alliance,ORG,0.5,0.0,en,1.0
+NDA tsunami &,NDA tsunami &,ORG,0.0,0.0,en,1.0
+Columbia Memorial Hospital,Columbia Memorial Hospital,ORG,0.1,0.0,en,1.0
+IMAGO,IMAGO,ORG,-0.1,0.0,en,1.0
+FEMA,FEMA,ORG,0.0,0.0,en,1.0
+Basel Action Network,Basel Action Network,ORG,0.10803571428571429,0.0,en,1.0
+State Emergency Service,State Emergency Service,ORG,-0.2,0.0,en,1.0
+the Bureau of Meteorology,the Bureau of Meteorology,ORG,-0.2,0.0,en,1.0
+SES,SES,ORG,0.0,0.0,en,1.0
+Birth Control Shot,Birth Control Shot,ORG,0.13636363636363635,0.0,en,1.0
+AP,AP,ORG,0.3,0.0,en,1.0
+Apple,Apple,ORG,-0.3125,0.0,en,1.0
+Mac,Mac,ORG,-0.3125,0.0,en,1.0
+M5,M5,ORG,0.0,0.0,en,1.0
+AI,AI,ORG,0.0,0.0,en,1.0
+Johari,Johari,ORG,0.0,0.0,en,1.0
+the Dewan Rakyat,the Dewan Rakyat,ORG,0.1,0.0,en,1.0
+BMKG,BMKG,ORG,0.1,0.0,en,1.0
+Reuters ConnectThe AI revolution,Reuters ConnectThe AI revolution,ORG,0.0,0.0,en,1.0
+JAKARTA,JAKARTA,ORG,0.22499999999999998,0.0,en,1.0
+BMK,BMK,ORG,0.22499999999999998,0.0,en,1.0
+Nucor,Nucor,ORG,-0.1,0.0,en,1.0
+Nucor Corp.,Nucor Corp.,ORG,0.0,0.0,en,1.0
+Burevestnik,Burevestnik,ORG,-0.2,0.0,en,1.0
+Putinâs,Putinâs,ORG,0.0,0.0,en,1.0
+NATO,NATO,ORG,-0.26666666666666666,0.225,en,1.0
+Corporate America,Corporate America,ORG,0.0,0.0,en,1.0
+Goldman Sachs,Goldman Sachs,ORG,-0.1,0.4,en,1.0
+USGS,USGS,ORG,-0.08333333333333333,0.0,en,1.0
+Reuters,Reuters,ORG,-0.1,0.0,en,1.0
+Mahagathbandhan,Mahagathbandhan,ORG,0.18409090909090908,0.0,en,1.0
