@@ -185,7 +185,7 @@ def inqGeonamesByNameAndLanguage(df, name, lang):
 
 
 def getCoordsByLatAndLng(lat,lng, phrase='somewhere'):
-    coordinates = geopandas.points_from_xy([lat], [lng])
+    coordinates = geopandas.points_from_xy([lng], [lat])
     print(['points_from_xy',coordinates])
     Coords = geopandas.GeoDataFrame({
       'geometry': coordinates,
@@ -194,7 +194,7 @@ def getCoordsByLatAndLng(lat,lng, phrase='somewhere'):
     print(['GeoDataFrame',Coords]) 
     return Coords
 
-def getIpccByCoords(df,Coords):
+def getIpccByCoords(df, index, Coords):
     whichIpcc = geopandas.sjoin(ipccRegions, Coords, how='inner', op='intersects')
     print(whichIpcc)
     if(not whichIpcc.empty):
@@ -203,7 +203,7 @@ def getIpccByCoords(df,Coords):
       df.loc[index,'continent'] = list(whichIpcc['Continent'])[0]
     return df        
 
-def getCountryByCoords(df, Coords):
+def getCountryByCoords(df, index, Coords):
     whichCountry = geopandas.sjoin(countriesDf, Coords, how='inner', op='intersects')
     print(whichCountry)
     if(not whichCountry.empty):
@@ -229,8 +229,8 @@ def enrichFromGeonames(df):
             df.loc[index,'longitude'] = float(gnd['longitude'])
             df.loc[index,'geotype'] = 'X'
             Coords = getCoordsByLatAndLng(float(gnd['latitude']),float(gnd['longitude']), phrase)
-            df = getIpccByCoords(df, Coords)
-            df = getCountryByCoords(df, Coords)
+            df = getIpccByCoords(df, index, Coords)
+            df = getCountryByCoords(df, index, Coords)
         return df
     for index, column in df.iterrows():
       if(geomax>0):
@@ -241,8 +241,8 @@ def enrichFromGeonames(df):
           (df, lat, lng, foundGn) = inqGeonamesByNameAndLanguage(df, phrase, lang)
           if(foundGn):  
             Coords = getCoordsByLatAndLng(lat,lng, phrase)
-            df = getIpccByCoords(df,Coords)
-            df = getCountryByCoords(df, Coords)
+            df = getIpccByCoords(df, index, Coords)
+            df = getCountryByCoords(df, index, Coords)
 
             #get GND
             found = False 
@@ -276,7 +276,9 @@ def enrichFromGeonames(df):
               df.loc[index,'latitude'] = float(gnd['latitude'])
               df.loc[index,'longitude'] = float(gnd['longitude'])
               df.loc[index,'geotype'] = 'X' 
-
+              Coords = getCoordsByLatAndLng(float(gnd['latitude']),float(gnd['longitude']), phrase)
+              df = getIpccByCoords(df, index, Coords)
+              df = getCountryByCoords(df, index, Coords)
           geomax -= 1
           time.sleep(0.1) 
     return df
