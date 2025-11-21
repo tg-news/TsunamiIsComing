@@ -166,7 +166,7 @@ if(geonamesKey == 'demo_demo_123'):
 print(['foundGeonames',foundGeonames])
 #foundGeonames = True
 
-def inqGeonamesByNameAndLanguage(df, name, lang):
+def inqGeonamesByNameAndLanguage(df, phrase, lang):
     gn = geocoder.geonames(phrase, lang=lang, key=geonamesKey)
     print([phrase,gn,gn.geonames_id]) 
     if(gn.geonames_id):  
@@ -179,9 +179,9 @@ def inqGeonamesByNameAndLanguage(df, name, lang):
       if(gne.country):
         df.loc[index,'country'] = gne.country
         print(gne.country)
-        print(['geo',gn.lat,gn.lng, gn])
-        return (df, float(gn.lat),float(gn.lng), True)
-    return (df, None, None, False)
+        print(['geo',gn.lat,gn.lng, gn.geonames_id, gn])
+        return (df, float(gn.lat),float(gn.lng), int(gn.geonames_id))
+    return (df, None, None, None)
 
 
 def getCoordsByLatAndLng(lat,lng, phrase='somewhere'):
@@ -238,21 +238,21 @@ def enrichFromGeonames(df):
         phrase = str(column.phrase)
         if(str(column.geonames) == '-1'):
           print('things to do')
-          (df, lat, lng, foundGn) = inqGeonamesByNameAndLanguage(df, phrase, lang)
-          if(foundGn):  
+          (df, lat, lng, gnId) = inqGeonamesByNameAndLanguage(df, phrase, lang)
+          if(gnId):  
             Coords = getCoordsByLatAndLng(lat,lng, phrase)
             df = getIpccByCoords(df, index, Coords)
             df = getCountryByCoords(df, index, Coords)
 
             #get GND
             found = False 
-            gnd = searchGndByGeonamesId(gn.geonames_id)
+            gnd = searchGndByGeonamesId(gnId)
             print(['searchGndByGeonamesId',gnd]) 
             if(gnd and 'gndId' in gnd):
               df.loc[index,'gnd'] = str(gnd['gndId'])
               found = True
             if(not found):
-              gnd = searchGndByNameAndGeo(phrase, float(gn.lat), float(gn.lng))
+              gnd = searchGndByNameAndGeo(phrase, lat, lng)
               print(['searchGndByNameAndGeo',gnd]) 
               if(gnd and 'gndId' in gnd):
                 df.loc[index,'gnd'] = str(gnd['gndId'])
@@ -265,7 +265,7 @@ def enrichFromGeonames(df):
                 found = True
 
           else:
-            print(['geonames found nothing',phrase,gn,gn.geonames_id])
+            print(['geonames found nothing',phrase])
             df.loc[index,'geonames'] = 0
             ### Try GND only
             gnd = searchGndWithCoordsAndGeonamesByName(phrase)  
@@ -469,7 +469,7 @@ def searchGndWithCoordsAndGeonamesByName(locationName):
                #print(member['preferredName'])
                result['preferredName'] = member['preferredName']
                found = found or (member['preferredName'] == locationName)
-             if(found and geoFound): 
+             if(found and geoFound and geonameFound): 
                return result
     return None
 
