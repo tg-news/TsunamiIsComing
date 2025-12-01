@@ -1,20 +1,22 @@
 ,phrase,label,sentiment,subjectivity,language,count
 PETALING JAYA,PETALING JAYA,PERSON,0.4342105263157895,0.7236842105263158,en,1.9
 Nitish Kumar,Nitish Kumar,PERSON,0.75,0.75,en,1.2
+Alice Gabriel,Alice Gabriel,PERSON,0.2828282828282828,0.494949494949495,en,1.1
 Lukas Gage,Lukas Gage,PERSON,0.06902356902356899,0.7819865319865319,en,1.1
 Trisha Paytas,Trisha Paytas,PERSON,0.06902356902356899,0.7819865319865319,en,1.1
-Les Vugec,Les Vugec,PERSON,0.0,1.0,en,1.0
-Diane Smith,Diane Smith,PERSON,0.0,1.0,en,1.0
-Nicolas Hulscher,Nicolas Hulscher,PERSON,0.0,0.0,en,1.0
-Lukas Gage Cries,Lukas Gage Cries,PERSON,0.0,0.0,en,1.0
-+3284 chars,+3284 chars,PERSON,0.0,0.0,en,1.0
-Sean Astin,Sean Astin,PERSON,0.0,0.2,en,1.0
-Chris Appleton,Chris Appleton,PERSON,0.03253968253968253,0.3686507936507937,en,1.0
-Vladimir Putin,Vladimir Putin,PERSON,0.22106060606060604,1.5282575757575758,en,1.0
 Daniel Priestley,Daniel Priestley,PERSON,0.0,0.0,en,1.0
-Alexander Limbach,Alexander Limbach,PERSON,-0.1,0.4,en,1.0
-Erik Thorsen,Erik Thorsen,PERSON,0.1,0.1,en,1.0
-Elon Musk,Elon Musk,PERSON,0.0,0.5625,en,1.0
-Anne South,Anne South,PERSON,0.0,0.0,en,1.0
+Yedioth Ahronoth,Yedioth Ahronoth,PERSON,0.0,0.15000000000000002,en,1.0
 Narendra Modi,Narendra Modi,PERSON,0.5,1.0,en,1.0
+Elon Musk,Elon Musk,PERSON,0.0,0.5625,en,1.0
+Erik Thorsen,Erik Thorsen,PERSON,0.1,0.1,en,1.0
+Alexander Limbach,Alexander Limbach,PERSON,-0.1,0.4,en,1.0
 Sean Astin Sounds Off,Sean Astin Sounds Off,PERSON,0.0,0.0,en,1.0
+Vladimir Putin,Vladimir Putin,PERSON,0.22106060606060604,1.5282575757575758,en,1.0
+Sean Astin,Sean Astin,PERSON,0.0,0.2,en,1.0
+Lukas Gage Cries,Lukas Gage Cries,PERSON,0.0,0.0,en,1.0
+Nicolas Hulscher,Nicolas Hulscher,PERSON,0.0,0.0,en,1.0
+Diane Smith,Diane Smith,PERSON,0.0,1.0,en,1.0
+Les Vugec,Les Vugec,PERSON,0.0,1.0,en,1.0
++3284 chars,+3284 chars,PERSON,0.0,0.0,en,1.0
+Anne South,Anne South,PERSON,0.0,0.0,en,1.0
+Chris Appleton,Chris Appleton,PERSON,0.03253968253968253,0.3686507936507937,en,1.0

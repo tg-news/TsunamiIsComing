@@ -1,67 +1,73 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Sunday,Sunday,DATE,,,en,17.200000000000003
+Sunday,Sunday,DATE,,,en,16.700000000000006
 6.7,6.7,CARDINAL,,,en,9.100000000000001
-evening,evening,TIME,,,en,8.200000000000001
+evening,evening,TIME,,,en,7.8999999999999995
 Japanese,Japanese,NORP,,,en,6.4
-Monday,Monday,DATE,,,en,4.6
-6.9,6.9,CARDINAL,,,en,3.6999999999999997
+Monday,Monday,DATE,,,en,4.3999999999999995
+Tuesday,Tuesday,DATE,,,en,3.6999999999999997
 200,200,CARDINAL,,,en,3.6999999999999997
 November 9th,November 9th,DATE,,,en,3.6999999999999997
-Tuesday,Tuesday,DATE,,,en,3.6999999999999997
+6.9,6.9,CARDINAL,,,en,3.5
 2024,2024,DATE,,,en,2.8
 The Fine Print,The Fine Print,WORK_OF_ART,,,en,2.8
-Nine,Nine,CARDINAL,,,en,2.8
-7.4,7.4,CARDINAL,,,en,1.9
-6.8,6.8,CARDINAL,,,en,1.9
+Nine,Nine,CARDINAL,,,en,2.5999999999999996
+the late afternoon,the late afternoon,TIME,,,en,1.9
 1 meter,1 meter,QUANTITY,,,en,1.9
 Nov 9,Nov 9,DATE,,,en,1.9
 first,first,ORDINAL,,,en,1.9
-night,night,TIME,,,en,1.9
-Oct. 28,Oct. 28,DATE,,,en,1.9
-the weekend,the weekend,DATE,,,en,1.9
+Miyako,Miyako,FAC,,,en,1.9
 5.37pm,5.37pm,CARDINAL,,,en,1.9
 4.37pm,4.37pm,CARDINAL,,,en,1.9
 around 5:03 p.m.,around 5:03 p.m.,TIME,,,en,1.9
-Malaysian,Malaysian,NORP,,,en,1.9
-this month,this month,DATE,,,en,1.9
-3 hours,3 hours,TIME,,,en,1.9
-Miyako,Miyako,FAC,,,en,1.9
 less than a week,less than a week,DATE,,,en,1.9
-Filipinos,Filipinos,NORP,,,en,1.9
+Oct. 28,Oct. 28,DATE,,,en,1.9
+Malaysian,Malaysian,NORP,,,en,1.9
 4,4,CARDINAL,,,en,1.9
-the late afternoon,the late afternoon,TIME,,,en,1.9
-Dozens,Dozens,CARDINAL,,,en,1.9
-two,two,CARDINAL,,,en,1.7999999999999998
+night,night,TIME,,,en,1.9
+7.4,7.4,CARDINAL,,,en,1.9
+the weekend,the weekend,DATE,,,en,1.8
+Filipinos,Filipinos,NORP,,,en,1.8
+6.8,6.8,CARDINAL,,,en,1.8
+3 hours,3 hours,TIME,,,en,1.8
+Dozens,Dozens,CARDINAL,,,en,1.8
 2022,2022,DATE,,,en,1.7999999999999998
-nearly a thousand,nearly a thousand,CARDINAL,,,en,1.6
-7.6,7.6,CARDINAL,,,en,1.6
+two,two,CARDINAL,,,en,1.7999999999999998
+this month,this month,DATE,,,en,1.7
 Last year,Last year,DATE,,,en,1.6
+nearly a thousand,nearly a thousand,CARDINAL,,,en,1.6
 Hundreds,Hundreds,CARDINAL,,,en,1.6
+7.6,7.6,CARDINAL,,,en,1.6
 Eugowra,Eugowra,PRODUCT,-0.2,0.4,en,1.4
-Yukon,Yukon,FAC,,,en,1.4
-two-year,two-year,DATE,,,en,1.4
 six-day-old,six-day-old,DATE,,,en,1.4
+two-year,two-year,DATE,,,en,1.4
+Yukon,Yukon,FAC,,,en,1.4
 daily,daily,DATE,,,en,1.1
+Japa…,Japa…,NORP,,,en,1.0
+two years,two years,DATE,,,en,1.0
+$15 Billion,$15 Billion,MONEY,,,en,1.0
+one m,one m,QUANTITY,,,en,1.0
+two million,two million,CARDINAL,,,en,1.0
+10 kilometres,10 kilometres,QUANTITY,,,en,1.0
+one,one,CARDINAL,,,en,1.0
+about 5 pm,about 5 pm,TIME,,,en,1.0
++2406,+2406,CARDINAL,,,en,1.0
+tenth,tenth,ORDINAL,,,en,1.0
 202,202,CARDINAL,,,en,1.0
 Alaskan,Alaskan,NORP,,,en,1.0
-Nov 09,Nov 09,DATE,,,en,1.0
-Nov 10,Nov 10,DATE,,,en,1.0
 5:03 p.m.,5:03 p.m.,TIME,,,en,1.0
-up to one meter,up to one meter,QUANTITY,,,en,1.0
-Japa…,Japa…,NORP,,,en,1.0
-one m,one m,QUANTITY,,,en,1.0
-6.9 eart,6.9 eart,QUANTITY,,,en,1.0
-10 kilometres,10 kilometres,QUANTITY,,,en,1.0
-about 5 pm,about 5 pm,TIME,,,en,1.0
-+3286 chars,+3286 chars,WORK_OF_ART,,,en,1.0
-11/10/2025 1:12:35 AM PST,11/10/2025 1:12:35 AM PST,TIME,,,en,1.0
+Jap,Jap,LANGUAGE,,,en,1.0
+5:12 p.m.,5:12 p.m.,TIME,,,en,1.0
+Nov 09,Nov 09,DATE,,,en,1.0
 "News On Japan) -
  ","News On Japan) -
  ",WORK_OF_ART,,,en,1.0
-Jap,Jap,LANGUAGE,,,en,1.0
-+2406,+2406,CARDINAL,,,en,1.0
-5:12 p.m.,5:12 p.m.,TIME,,,en,1.0
-doomsday,doomsday,DATE,,,en,1.0
+up to one meter,up to one meter,QUANTITY,,,en,1.0
++3286 chars,+3286 chars,WORK_OF_ART,,,en,1.0
+6.9 eart,6.9 eart,QUANTITY,,,en,1.0
+Nov 10,Nov 10,DATE,,,en,1.0
+11/10/2025 1:12:35 AM PST,11/10/2025 1:12:35 AM PST,TIME,,,en,1.0
+Two months ago,Two months ago,DATE,,,en,1.0
+more than half,more than half,CARDINAL,,,en,1.0
 November 2025,November 2025,DATE,,,en,1.0
 5,5,CARDINAL,,,en,1.0
 Wednesday,Wednesday,DATE,,,en,1.0
@@ -87,9 +93,9 @@ M1,M1,PRODUCT,,,en,1.0
 Poseidon 2M39 torpedo,Poseidon 2M39 torpedo,PRODUCT,,,en,1.0
 April to July 2026 lean season,April to July 2026 lean season,DATE,,,en,1.0
 around 7.56 million,around 7.56 million,CARDINAL,,,en,1.0
-more than half,more than half,CARDINAL,,,en,1.0
 Eight years ago,Eight years ago,DATE,,,en,1.0
 millions of dollars,millions of dollars,MONEY,,,en,1.0
+doomsday,doomsday,DATE,,,en,1.0
 Russian,Russian,NORP,,,en,1.0
 Poseidon,Poseidon,PRODUCT,,,en,1.0
 Nearly 700,Nearly 700,CARDINAL,,,en,1.0
@@ -101,4 +107,4 @@ De,De,WORK_OF_ART,,,en,1.0
 Oct 23,Oct 23,DATE,,,en,1.0
 Thursday,Thursday,DATE,,,en,1.0
 M5 Pro,M5 Pro,PRODUCT,,,en,1.0
-tenth,tenth,ORDINAL,,,en,1.0
+last week,last week,DATE,,,en,1.0
