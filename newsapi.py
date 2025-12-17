@@ -370,23 +370,6 @@ def checkKeywordInQuote(keyword, quote, case=True, anyKey=False):
        found = found and (not keyw in quote)  
     return found
 
-def checkKeywordInQuoteOld(keyword, quote, case=True, anyKey=False):
-    keyword = keyword.replace("+","").replace("-","")
-    keywords = keyword.strip("'").split(" ")
-    if(not case):
-        keywords = keyword.strip("'").lower().split(" ")
-        quote = quote.lower()
-    if(anyKey):
-      allFound = False
-      for keyw in keywords:
-        allFound = allFound or (keyw in quote)    
-    else:
-      allFound = True
-      for keyw in keywords:
-        allFound = allFound and (keyw in quote)  
-
-    return allFound
-
 def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
     keywordsLangDF = keywordsDF[keywordsDF['language']==language]
     foundArticles = []
@@ -412,7 +395,7 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             max(valid,0.7)
+             valid = max(valid,0.7)
       # add seldom keywords twice if
       keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
       for index2, column2 in keywordsSeldomLangDF.iterrows(): 
@@ -421,20 +404,35 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
+             valid = max(valid,0.65) 
       if(not found):
         for index2, column2 in keywordsLangDF.iterrows(): 
            allFound = checkKeywordInQuote(keyword, fullQuote, case=True)
            if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             max(valid,0.6) 
+             valid = max(valid,0.6) 
       if(not found):
         for index2, column2 in keywordsLangDF.iterrows(): 
-           allFound = checkKeywordInQuote(keyword, fullQuote, case=True, anyKey=True)
+           allFound = checkKeywordInQuote(keyword, fullQuote, case=False)
            if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             max(valid,0.2) 
+             valid = max(valid,0.55) 
+      if(not found):
+        for index2, column2 in keywordsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, searchQuote+fullQuote, case=True, anyKey=True)
+           if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+             valid = max(valid,0.3) 
+      if(not found):
+        for index2, column2 in keywordsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, searchQuote+fullQuote, case=False, anyKey=True)
+           if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+             valid = max(valid,0.2) 
       data['valid'] = valid
       if(valid>0.15):
         foundKeywords.append(keyWord) 
@@ -443,7 +441,6 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
       else:
         data['keyword'] = keyWord
         #foundArticles.append(data)
-
     return foundArticles
 
 def filterNewAndArchive(articles, language, keyWord):
