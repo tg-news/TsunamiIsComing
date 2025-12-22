@@ -1,78 +1,101 @@
 ,phrase,label,sentiment,subjectivity,language,count
-the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.1534666666666666,0.3678666666666666,en,12.500000000000002
+the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.14628514056224898,0.34267068273092366,en,16.6
+JMA,JMA,ORG,0.06213333333333332,0.15919999999999995,en,12.500000000000002
 Meteorological Agency,Meteorological Agency,ORG,0.04766666666666666,0.17899999999999994,en,10.000000000000002
-JMA,JMA,ORG,0.042666666666666665,0.14399999999999993,en,10.000000000000002
 Iwate,Iwate,ORG,0.10267857142857142,0.24181547619047616,en,6.4
-AP,AP,ORG,0.11515151515151514,0.2824242424242424,en,5.5
+AP,AP,ORG,0.16954022988505746,0.3971264367816092,en,5.8
 NASA,NASA,ORG,0.16287878787878787,0.6338383838383838,en,5.5
+Reuters,Reuters,ORG,0.061363636363636356,0.2734848484848485,en,5.5
+Trump,Trump,ORG,-5.5511151231257815e-18,0.12333333333333332,en,5.000000000000001
 the Japanese Meteorological Agency,the Japanese Meteorological Agency,ORG,0.16304347826086957,0.4347826086956522,en,4.6
-Trump,Trump,ORG,-7.50150692314295e-18,0.16666666666666669,en,3.6999999999999997
+Mega Quake,Mega Quake,ORG,0.20506697408871327,0.34243247694334655,en,4.6
+newsweek.com,newsweek.com,ORG,0.0,0.0,en,4.3999999999999995
+The Japan Meteorological Agency,The Japan Meteorological Agency,ORG,0.07333333333333335,0.2794444444444445,en,3.9999999999999996
+MetMalaysia,MetMalaysia,ORG,0.20495495495495497,0.3941441441441442,en,3.6999999999999997
+magnitude-7.5,magnitude-7.5,ORG,0.12162162162162161,0.3918918918918919,en,3.6999999999999997
 SWOT,SWOT,ORG,0.10435435435435435,0.35660660660660665,en,3.6999999999999997
 CNN,CNN,ORG,-0.3603603603603603,0.4774774774774775,en,3.6999999999999997
-The Japan Meteorological Agency,The Japan Meteorological Agency,ORG,0.05675675675675677,0.19099099099099098,en,3.6999999999999997
-MetMalaysia,MetMalaysia,ORG,0.20495495495495497,0.3941441441441442,en,3.6999999999999997
-newsweek.com,newsweek.com,ORG,0.0,0.0,en,2.8
 World News,World News,ORG,0.02023809523809524,0.230952380952381,en,2.8
-Reuters,Reuters,ORG,-0.004464285714285724,0.34077380952380953,en,2.8
-the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.4342105263157895,0.33771929824561403,en,1.9
-liftedCBS News,liftedCBS News,ORG,0.19725449988607885,0.26455342902711326,en,1.9
-USGS,USGS,ORG,-0.043859649122807015,0.0,en,1.9
-UN,UN,ORG,0.02982456140350877,0.0,en,1.9
+FEMA,FEMA,ORG,0.03571428571428572,0.14285714285714288,en,2.8
+Columbia Memorial Hospital,Columbia Memorial Hospital,ORG,0.10044642857142858,0.3035714285714286,en,2.8
+USGS,USGS,ORG,-0.10119047619047619,0.10714285714285715,en,2.8
+Capcom,Capcom,ORG,0.041151515151515154,0.4482828282828284,en,2.4999999999999996
 Starwood Capital Group,Starwood Capital Group,ORG,0.03947368421052632,0.0,en,1.9
-Japans Meteorological Agency,Japans Meteorological Agency,ORG,0.0,0.0,en,1.9
+UN,UN,ORG,0.02982456140350877,0.0,en,1.9
 NFL,NFL,ORG,0.10964912280701755,0.09210526315789473,en,1.9
+Al Jazeera,Al Jazeera,ORG,0.0,0.0,en,1.9
+BBC,BBC,ORG,0.03289473684210526,0.0,en,1.9
 AP News,AP News,ORG,0.15789473684210525,0.0,en,1.9
-SAATNM,SAATNM,ORG,0.17105263157894735,0.22368421052631582,en,1.9
+the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.4342105263157895,0.33771929824561403,en,1.9
+coastNBC News,coastNBC News,ORG,0.18658625730994155,0.2807017543859649,en,1.9
+The New York Times,The New York Times,ORG,0.14354066985645933,0.23923444976076555,en,1.9
 the Meteorological Agency,the Meteorological Agency,ORG,0.0,0.4210526315789474,en,1.9
-The Indonesia Tsunami Warning Center,The Indonesia Tsunami Warning Center,ORG,-0.052631578947368425,0.2894736842105263,en,1.9
+CBS News,CBS News,ORG,0.07894736842105263,0.16447368421052633,en,1.9
 JPMorgan,JPMorgan,ORG,-0.05482456140350877,0.19736842105263158,en,1.9
+liftedCBS News,liftedCBS News,ORG,0.19725449988607885,0.26455342902711326,en,1.9
+ASTORIA,ASTORIA,ORG,0.0,0.2368421052631579,en,1.9
+Japans Meteorological Agency,Japans Meteorological Agency,ORG,0.0,0.0,en,1.9
 KUALA LUMPUR,KUALA LUMPUR,ORG,0.17105263157894735,0.22368421052631582,en,1.9
 The Malaysian Meteorological Department,The Malaysian Meteorological Department,ORG,0.17105263157894735,0.22368421052631582,en,1.9
-Capcom,Capcom,ORG,0.060526315789473685,0.0,en,1.9
-magnitude-7.5,magnitude-7.5,ORG,0.15789473684210525,0.2631578947368421,en,1.9
+The Indonesia Tsunami Warning Center,The Indonesia Tsunami Warning Center,ORG,-0.052631578947368425,0.2894736842105263,en,1.9
+SAATNM,SAATNM,ORG,0.17105263157894735,0.22368421052631582,en,1.9
 NDA,NDA,ORG,1.4170875420875422,1.6047979797979797,en,1.8
+Newsweek,Newsweek,ORG,0.20626432391138275,0.273109243697479,en,1.7
+Microsoft,Microsoft,ORG,0.0,0.5128205128205128,en,1.3
 Pfizer,Pfizer,ORG,-0.05303030303030304,0.6458333333333333,en,1.2000000000000002
 MGB,MGB,ORG,0.1534090909090909,0.5113636363636364,en,1.2
-Depo-Provera,Depo-Provera,ORG,-0.18181818181818182,0.0,en,1.1
 Manufacturing Dive,Manufacturing Dive,ORG,0.46212121212121204,0.2424242424242424,en,1.1
-UC San Diego,UC San Diego,ORG,0.011111111111111108,0.0,en,1.0
-Starwood,Starwood,ORG,0.25,0.0,en,1.0
-lethalThe Guardian,lethalThe Guardian,ORG,-0.00899621212121212,0.0,en,1.0
-CNES,CNES,ORG,0.15,0.0,en,1.0
-Litton Industries,Litton Industries,ORG,0.0,0.0,en,1.0
-SUSITNA,SUSITNA,ORG,0.0,0.0,en,1.0
-NA,NA,ORG,0.0,0.0,en,1.0
-the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.0,0.0,en,1.0
-AsiaThe New York Times Frustration,AsiaThe New York Times Frustration,ORG,-0.00899621212121212,0.0,en,1.0
-Convert,Convert,ORG,0.25,0.0,en,1.0
-A.I.,A.I.,ORG,0.2727272727272727,0.6545454545454545,en,1.0
+Depo-Provera,Depo-Provera,ORG,-0.18181818181818182,0.0,en,1.1
 Japan Meteorological agency,Japan Meteorological agency,ORG,0.0,0.0,en,1.0
+alertAl Jazeera Tsunami,alertAl Jazeera Tsunami,ORG,0.1922222222222222,0.0,en,1.0
+CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,1.0
+Stock Score,Stock Score,ORG,0.165,0.0,en,1.0
+CBS News',CBS News',ORG,0.0,0.0,en,1.0
+The U.S. Geological Survey,The U.S. Geological Survey,ORG,0.09999999999999999,0.0,en,1.0
+"Challenger, Gray & Christmas","Challenger, Gray & Christmas",ORG,0.13636363636363635,0.0,en,1.0
+the Washington Com,the Washington Com,ORG,0.0,0.0,en,1.0
 the Washington Commanders,the Washington Commanders,ORG,0.07500000000000001,0.0,en,1.0
-coastNBC News,coastNBC News,ORG,0.115625,0.0,en,1.0
+tsunam,tsunam,ORG,0.0,0.0,en,1.0
+A.I.,A.I.,ORG,0.2727272727272727,0.6545454545454545,en,1.0
+EarthquakeThe New York Times,EarthquakeThe New York Times,ORG,0.18434343434343434,0.0,en,1.0
+coastNBC News Japan,coastNBC News Japan,ORG,0.2388888888888889,0.0,en,1.0
+the Census Bureau,the Census Bureau,ORG,0.20833333333333331,0.0,en,1.0
+US Utilities,US Utilities,ORG,0.0,0.0,en,1.0
+Oregon Hospital,Oregon Hospital,ORG,0.0,0.0,en,1.0
+ABC News,ABC News,ORG,0.0,0.0,en,1.0
+megaquake,megaquake,ORG,0.3,0.0,en,1.0
+NPR,NPR,ORG,0.0,0.0,en,1.0
+regionCBS News,regionCBS News,ORG,0.04545454545454545,0.0,en,1.0
+03:34:00,03:34:00,ORG,0.0,0.0,en,1.0
+NHS England,NHS England,ORG,-0.33333333333333337,0.0,en,1.0
+NHS,NHS,ORG,-0.33333333333333337,0.0,en,1.0
+Japan Meteorological Agency,Japan Meteorological Agency,ORG,0.04034090909090909,0.0,en,1.0
+White House's,White House's,ORG,-0.08333333333333333,0.0,en,1.0
+CCTV,CCTV,ORG,-0.21666666666666665,0.0,en,1.0
+coastAP News Evacuation,coastAP News Evacuation,ORG,0.115625,0.0,en,1.0
+The Pacific Ring of Fire,The Pacific Ring of Fire,ORG,-0.03392857142857143,0.0,en,1.0
 Notre-Dame,Notre-Dame,ORG,-0.2,0.0,en,1.0
 LLC,LLC,ORG,0.0,0.0,en,1.0
 Fed,Fed,ORG,-0.20000000000000004,0.0,en,1.0
 Warner Bros,Warner Bros,ORG,-0.20000000000000004,0.0,en,1.0
 Paramount,Paramount,ORG,-0.20000000000000004,0.0,en,1.0
+coastNBC News 6,coastNBC News 6,ORG,0.2388888888888889,0.0,en,1.0
+KYODO NEWS Evacuation,KYODO NEWS Evacuation,ORG,0.2388888888888889,0.0,en,1.0
+KYODO NEWS,KYODO NEWS,ORG,0.0,0.0,en,1.0
 Magnitude-7.0 Earthquake Hit Remote Area Along,Magnitude-7.0 Earthquake Hit Remote Area Along,ORG,-0.1,0.0,en,1.0
 coastBBC Evacuation,coastBBC Evacuation,ORG,0.1525,0.0,en,1.0
-BBC,BBC,ORG,0.0625,0.0,en,1.0
 Bloomberg,Bloomberg,ORG,0.15,0.0,en,1.0
-coastAP News Evacuation,coastAP News Evacuation,ORG,0.115625,0.0,en,1.0
-the Washington Com,the Washington Com,ORG,0.0,0.0,en,1.0
-tsunam,tsunam,ORG,0.0,0.0,en,1.0
-CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,1.0
-CBS News',CBS News',ORG,0.0,0.0,en,1.0
-alertAl Jazeera Tsunami,alertAl Jazeera Tsunami,ORG,0.1922222222222222,0.0,en,1.0
-Al Jazeera,Al Jazeera,ORG,0.0,0.0,en,1.0
-Stock Score,Stock Score,ORG,0.165,0.0,en,1.0
-PTSD,PTSD,ORG,0.0,0.0,en,1.0
-The U.S. Geological Survey,The U.S. Geological Survey,ORG,0.09999999999999999,0.0,en,1.0
-"Challenger, Gray & Christmas","Challenger, Gray & Christmas",ORG,0.13636363636363635,0.0,en,1.0
+Japan Wire,Japan Wire,ORG,0.0,0.0,en,1.0
 UCSD,UCSD,ORG,0.3,0.0,en,1.0
-CBS News,CBS News,ORG,0.15,0.0,en,1.0
-Oracle,Oracle,ORG,0.0,0.0,en,1.0
-Basel Action Network,Basel Action Network,ORG,0.10803571428571429,0.0,en,1.0
+Convert,Convert,ORG,0.25,0.0,en,1.0
+Starwood,Starwood,ORG,0.25,0.0,en,1.0
+"UN News
+","UN News
+",ORG,0.056666666666666664,0.0,en,1.0
+MIA,MIA,ORG,0.0,0.0,en,1.0
+Reuters ConnectThe AI revolution,Reuters ConnectThe AI revolution,ORG,0.0,0.0,en,1.0
+IMAGO,IMAGO,ORG,-0.1,0.0,en,1.0
+Goldman Sachs,Goldman Sachs,ORG,-0.1,0.4,en,1.0
 Corporate America,Corporate America,ORG,0.0,0.0,en,1.0
 NATO,NATO,ORG,-0.26666666666666666,0.225,en,1.0
 Putinâs,Putinâs,ORG,0.0,0.0,en,1.0
@@ -82,8 +105,8 @@ Nucor,Nucor,ORG,-0.1,0.0,en,1.0
 BMK,BMK,ORG,0.22499999999999998,0.0,en,1.0
 JAKARTA,JAKARTA,ORG,0.22499999999999998,0.0,en,1.0
 BMKG,BMKG,ORG,0.1,0.0,en,1.0
+Basel Action Network,Basel Action Network,ORG,0.10803571428571429,0.0,en,1.0
 the Dewan Rakyat,the Dewan Rakyat,ORG,0.1,0.0,en,1.0
-IMAGO,IMAGO,ORG,-0.1,0.0,en,1.0
 Johari,Johari,ORG,0.0,0.0,en,1.0
 AI,AI,ORG,0.0,0.0,en,1.0
 M5,M5,ORG,0.0,0.0,en,1.0
@@ -93,12 +116,23 @@ Birth Control Shot,Birth Control Shot,ORG,0.13636363636363635,0.0,en,1.0
 SES,SES,ORG,0.0,0.0,en,1.0
 the Bureau of Meteorology,the Bureau of Meteorology,ORG,-0.2,0.0,en,1.0
 State Emergency Service,State Emergency Service,ORG,-0.2,0.0,en,1.0
-Goldman Sachs,Goldman Sachs,ORG,-0.1,0.4,en,1.0
-Reuters ConnectThe AI revolution,Reuters ConnectThe AI revolution,ORG,0.0,0.0,en,1.0
+CNN Panel After Declaring A Bad Night For Democrats,CNN Panel After Declaring A Bad Night For Democrats,ORG,-0.6999999999999998,0.0,en,1.0
+Newsmax,Newsmax,ORG,-0.33333333333333326,0.0,en,1.0
+NBC,NBC,ORG,-0.33333333333333326,0.0,en,1.0
 Nvidia Invest,Nvidia Invest,ORG,0.0,0.6666666666666666,en,1.0
-the Japan Meteorological Agency TOKYO,the Japan Meteorological Agency TOKYO,ORG,0.275,0.0,en,1.0
-Microsoft,Microsoft,ORG,0.0,0.6666666666666666,en,1.0
+CNES,CNES,ORG,0.15,0.0,en,1.0
+AsiaThe New York Times Frustration,AsiaThe New York Times Frustration,ORG,-0.00899621212121212,0.0,en,1.0
+lethalThe Guardian,lethalThe Guardian,ORG,-0.00899621212121212,0.0,en,1.0
+Batticaloa,Batticaloa,ORG,-0.1875,0.0,en,1.0
+NA,NA,ORG,0.0,0.0,en,1.0
+Litton Industries,Litton Industries,ORG,0.0,0.0,en,1.0
+the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.0,0.0,en,1.0
+SUSITNA,SUSITNA,ORG,0.0,0.0,en,1.0
+UC San Diego,UC San Diego,ORG,0.011111111111111108,0.0,en,1.0
+PTSD,PTSD,ORG,0.0,0.0,en,1.0
+Oracle,Oracle,ORG,0.0,0.0,en,1.0
 Mahagathbandhan,Mahagathbandhan,ORG,0.18409090909090908,0.0,en,1.0
+Elon Musk,Elon Musk,ORG,0.2,0.0,en,1.0
 NDA tsunami &,NDA tsunami &,ORG,0.0,0.0,en,1.0
 National Democratic Alliance,National Democratic Alliance,ORG,0.5,0.0,en,1.0
 NOAA,NOAA,ORG,0.125,0.0,en,1.0
@@ -106,17 +140,8 @@ Super Typhoon Uwan,Super Typhoon Uwan,ORG,0.18888888888888888,0.0,en,1.0
 FAA,FAA,ORG,-0.20000000000000004,0.0,en,1.0
 IWATE,IWATE,ORG,0.0,0.0,en,1.0
 Tsunami Advisory Issued for Iwate,Tsunami Advisory Issued for Iwate,ORG,0.0,0.0,en,1.0
+the Japan Meteorological Agency TOKYO,the Japan Meteorological Agency TOKYO,ORG,0.275,0.0,en,1.0
 FedE,FedE,ORG,-0.20000000000000004,0.0,en,1.0
-FEMA,FEMA,ORG,0.0,0.0,en,1.0
 UPS,UPS,ORG,-0.20000000000000004,0.0,en,1.0
 NHK,NHK,ORG,0.0,0.0,en,1.0
-Elon Musk,Elon Musk,ORG,0.2,0.0,en,1.0
-NBC,NBC,ORG,-0.33333333333333326,0.0,en,1.0
-Newsmax,Newsmax,ORG,-0.33333333333333326,0.0,en,1.0
-CNN Panel After Declaring A Bad Night For Democrats,CNN Panel After Declaring A Bad Night For Democrats,ORG,-0.6999999999999998,0.0,en,1.0
-"UN News
-","UN News
-",ORG,0.056666666666666664,0.0,en,1.0
-Columbia Memorial Hospital,Columbia Memorial Hospital,ORG,0.1,0.0,en,1.0
-MIA,MIA,ORG,0.0,0.0,en,1.0
-CCTV,CCTV,ORG,-0.21666666666666665,0.0,en,1.0
+Brown University,Brown University,ORG,-0.1,0.0,en,1.0
