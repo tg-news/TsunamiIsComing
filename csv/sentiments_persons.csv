@@ -1,56 +1,70 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Donald Trump,Donald Trump,PERSON,0.1078590785907859,0.5644986449864497,en,8.200000000000001
-Vladimir Putin,Vladimir Putin,PERSON,0.3616883116883117,0.9475919913419915,en,2.8
 Kyle Gass,Kyle Gass,PERSON,-0.230952380952381,0.7666666666666666,en,2.8
 Scott Jennings,Scott Jennings,PERSON,-0.4880952380952381,0.6587301587301588,en,2.8
-Tim Gruber,Tim Gruber,PERSON,0.35714285714285715,0.35714285714285715,en,2.8
+Vladimir Putin,Vladimir Putin,PERSON,0.3616883116883117,0.9475919913419915,en,2.8
 Thomas Magnuson,Thomas Magnuson,PERSON,0.26785714285714285,0.26785714285714285,en,2.8
 Amanda Nguyen,Amanda Nguyen,PERSON,0.0,0.12460317460317462,en,2.8
-KOTA KINABALU,KOTA KINABALU,PERSON,0.06140350877192982,0.4254385964912281,en,1.9
-David Smith,David Smith,PERSON,-0.16374269005847958,0.304093567251462,en,1.9
-PETALING JAYA,PETALING JAYA,PERSON,0.4342105263157895,0.7236842105263158,en,1.9
+Tim Gruber,Tim Gruber,PERSON,0.35714285714285715,0.35714285714285715,en,2.8
 Monster Hunter Showcase,Monster Hunter Showcase,PERSON,0.11315789473684211,0.4184210526315789,en,1.9
-Dr Dominic Akruyinga Ayine,Dr Dominic Akruyinga Ayine,PERSON,-0.19607843137254902,0.4313725490196078,en,1.7
+KOTA KINABALU,KOTA KINABALU,PERSON,0.06140350877192982,0.4254385964912281,en,1.9
+Gary Gannon,Gary Gannon,PERSON,0.017543859649122806,0.06140350877192983,en,1.9
+David Smith,David Smith,PERSON,-0.16374269005847958,0.304093567251462,en,1.9
+Alan Shatter,Alan Shatter,PERSON,0.017543859649122806,0.06140350877192983,en,1.9
+PETALING JAYA,PETALING JAYA,PERSON,0.4342105263157895,0.7236842105263158,en,1.9
 Tsunami Bomb,Tsunami Bomb,PERSON,0.5,0.5882352941176471,en,1.7
+Tim Armstrong,Tim Armstrong,PERSON,-0.10491469314998726,0.3076139546727782,en,1.7
+Dr Dominic Akruyinga Ayine,Dr Dominic Akruyinga Ayine,PERSON,-0.19607843137254902,0.4313725490196078,en,1.7
+Ape Vermin,Ape Vermin,PERSON,0.3921568627450981,0.7843137254901961,en,1.7
 Rob Reiner,Rob Reiner,PERSON,-0.6440972222222221,1.4305555555555554,en,1.6
 Alina Habba,Alina Habba,PERSON,0.17045454545454547,0.7244318181818183,en,1.5999999999999999
-Michele Singer Reiner,Michele Singer Reiner,PERSON,-0.673076923076923,1.5384615384615383,en,1.3
-Claudia Sheinbaum,Claudia Sheinbaum,PERSON,0.263986013986014,0.8158508158508158,en,1.3
 Keir Starmer,Keir Starmer,PERSON,0.0,0.1346153846153846,en,1.3
+Claudia Sheinbaum,Claudia Sheinbaum,PERSON,0.263986013986014,0.8158508158508158,en,1.3
 Monster Hunter Wilds,Monster Hunter Wilds,PERSON,0.07867132867132866,0.662004662004662,en,1.3
+Ashton Hurn,Ashton Hurn,PERSON,0.0,0.7692307692307692,en,1.3
+Michele Singer Reiner,Michele Singer Reiner,PERSON,-0.673076923076923,1.5384615384615383,en,1.3
 Nitish Kumar,Nitish Kumar,PERSON,0.75,0.75,en,1.2
-Lukas Gage,Lukas Gage,PERSON,0.06902356902356899,0.7819865319865319,en,1.1
 Alice Gabriel,Alice Gabriel,PERSON,0.2828282828282828,0.494949494949495,en,1.1
 Trisha Paytas,Trisha Paytas,PERSON,0.06902356902356899,0.7819865319865319,en,1.1
-+3284 chars,+3284 chars,PERSON,0.0,0.0,en,1.0
-Amanda Nguyen - a,Amanda Nguyen - a,PERSON,0.0,0.0,en,1.0
-Nicolas Hulscher,Nicolas Hulscher,PERSON,0.0,0.0,en,1.0
-Diane Smith,Diane Smith,PERSON,0.0,1.0,en,1.0
-Les Vugec,Les Vugec,PERSON,0.0,1.0,en,1.0
+Lukas Gage,Lukas Gage,PERSON,0.06902356902356899,0.7819865319865319,en,1.1
+Kristalina Georgie,Kristalina Georgie,PERSON,0.0,0.0,en,1.0
+Jennifer Welch,Jennifer Welch,PERSON,0.0,0.0,en,1.0
+Jim Acosta,Jim Acosta,PERSON,0.0,0.0,en,1.0
 Renee Good,Renee Good,PERSON,0.35,0.35000000000000003,en,1.0
 Tracy Arm,Tracy Arm,PERSON,0.5,0.5,en,1.0
-Kristalina Georgie,Kristalina Georgie,PERSON,0.0,0.0,en,1.0
-Jim Acosta,Jim Acosta,PERSON,0.0,0.0,en,1.0
-Jennifer Welch,Jennifer Welch,PERSON,0.0,0.0,en,1.0
-Narendra Modi,Narendra Modi,PERSON,0.5,1.0,en,1.0
-Lukas Gage Cries,Lukas Gage Cries,PERSON,0.0,0.0,en,1.0
+Matthew Miller,Matthew Miller,PERSON,-0.4,0.6,en,1.0
+Jack B,Jack B,PERSON,-0.2,0.8,en,1.0
+La Carte,La Carte,PERSON,0.6,0.6166666666666667,en,1.0
+Lo imposible,Lo imposible,PERSON,0.29375,0.55,en,1.0
+Kenji Tsunami of,Kenji Tsunami of,PERSON,0.0,0.0,en,1.0
 Kristalina Georgieva,Kristalina Georgieva,PERSON,0.2333333333333333,0.3666666666666667,en,1.0
+Anne McElvoy,Anne McElvoy,PERSON,0.0,0.175,en,1.0
 Gen Z,Gen Z,PERSON,0.2333333333333333,0.3666666666666667,en,1.0
 degreeof blameAI,degreeof blameAI,PERSON,-0.5,1.0,en,1.0
 Datuk Seri Arthur Joseph Kurup,Datuk Seri Arthur Joseph Kurup,PERSON,0.0,0.0,en,1.0
 Datuk Seri Arthur Joseph Kuru,Datuk Seri Arthur Joseph Kuru,PERSON,0.35,0.55,en,1.0
+Jeffrey Epstein,Jeffrey Epstein,PERSON,0.016666666666666666,0.058333333333333334,en,1.0
 Mahashivratri 2026,Mahashivratri 2026,PERSON,0.2,0.6,en,1.0
 Maha Shivratri,Maha Shivratri,PERSON,0.2,0.6,en,1.0
-Anne South,Anne South,PERSON,0.0,0.0,en,1.0
 Morgan McSweeney,Morgan McSweeney,PERSON,0.0,0.0,en,1.0
 Labour MPs,Labour MPs,PERSON,0.0,0.175,en,1.0
-Anne McElvoy,Anne McElvoy,PERSON,0.0,0.175,en,1.0
-Jack B,Jack B,PERSON,-0.2,0.8,en,1.0
+Marc-Andre Gutscher,Marc-Andre Gutscher,PERSON,0.5,0.5,en,1.0
+Sean Astin Sounds Off,Sean Astin Sounds Off,PERSON,0.0,0.0,en,1.0
+Amanda Nguyen - a,Amanda Nguyen - a,PERSON,0.0,0.0,en,1.0
 Upul Rathgama,Upul Rathgama,PERSON,0.03333333333333333,0.5833333333333334,en,1.0
-Lance Eaton,Lance Eaton,PERSON,-0.038888888888888896,0.22777777777777777,en,1.0
-nan Hi,nan Hi,PERSON,0.13636363636363635,0.5,en,1.0
-Yedioth Ahronoth,Yedioth Ahronoth,PERSON,0.0,0.15000000000000002,en,1.0
+Anne South,Anne South,PERSON,0.0,0.0,en,1.0
++3284 chars,+3284 chars,PERSON,0.0,0.0,en,1.0
+Les Vugec,Les Vugec,PERSON,0.0,1.0,en,1.0
+Diane Smith,Diane Smith,PERSON,0.0,1.0,en,1.0
+Nicolas Hulscher,Nicolas Hulscher,PERSON,0.0,0.0,en,1.0
+Lukas Gage Cries,Lukas Gage Cries,PERSON,0.0,0.0,en,1.0
+Chris Appleton,Chris Appleton,PERSON,0.03253968253968253,0.3686507936507937,en,1.0
+Daniel Priestley,Daniel Priestley,PERSON,0.0,0.0,en,1.0
+Alexander Limbach,Alexander Limbach,PERSON,-0.1,0.4,en,1.0
+Erik Thorsen,Erik Thorsen,PERSON,0.1,0.1,en,1.0
 Elon Musk,Elon Musk,PERSON,0.0,0.5625,en,1.0
+Narendra Modi,Narendra Modi,PERSON,0.5,1.0,en,1.0
+Yedioth Ahronoth,Yedioth Ahronoth,PERSON,0.0,0.15000000000000002,en,1.0
 Lee Kuok Tiung,Lee Kuok Tiung,PERSON,0.0,0.375,en,1.0
 Afrianti Usnia,Afrianti Usnia,PERSON,-0.3,0.4,en,1.0
 Margins Stabilising,Margins Stabilising,PERSON,0.25,0.5,en,1.0
@@ -58,15 +72,13 @@ Sarala Emmanuel,Sarala Emmanuel,PERSON,-0.1875,0.5,en,1.0
 ANIRUDDHA GHOSAL,ANIRUDDHA GHOSAL,PERSON,0.2,1.0,en,1.0
 Scales SE,Scales SE,PERSON,-0.4,0.55,en,1.0
 Camphausen LC,Camphausen LC,PERSON,-0.4,0.55,en,1.0
+nan Hi,nan Hi,PERSON,0.13636363636363635,0.5,en,1.0
 Vlad Duthiers,Vlad Duthiers,PERSON,0.0,0.0,en,1.0
-Chris Appleton,Chris Appleton,PERSON,0.03253968253968253,0.3686507936507937,en,1.0
-Erik Thorsen,Erik Thorsen,PERSON,0.1,0.1,en,1.0
-Alexander Limbach,Alexander Limbach,PERSON,-0.1,0.4,en,1.0
-Sean Astin,Sean Astin,PERSON,0.0,0.2,en,1.0
 Lana Zak,Lana Zak,PERSON,0.0,0.0,en,1.0
 Lonnie Quinn,Lonnie Quinn,PERSON,0.0,0.0,en,1.0
 Lana Za,Lana Za,PERSON,0.0,0.0,en,1.0
 David Letterman,David Letterman,PERSON,0.0,0.0,en,1.0
 Abigail Van Buren,Abigail Van Buren,PERSON,0.0,0.0,en,1.0
-Daniel Priestley,Daniel Priestley,PERSON,0.0,0.0,en,1.0
-Sean Astin Sounds Off,Sean Astin Sounds Off,PERSON,0.0,0.0,en,1.0
+Sean Astin,Sean Astin,PERSON,0.0,0.2,en,1.0
+Lance Eaton,Lance Eaton,PERSON,-0.038888888888888896,0.22777777777777777,en,1.0
+Gavin Ortlund,Gavin Ortlund,PERSON,0.6,0.6166666666666667,en,1.0
