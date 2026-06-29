@@ -11,144 +11,151 @@ BMKG,BMKG,ORG,0.05626911314984708,0.20489296636085624,en,10.900000000000002
 Reuters,Reuters,ORG,0.0794392523364486,0.39369158878504673,en,10.700000000000001
 KUALA LUMPUR,KUALA LUMPUR,ORG,0.1828465063001145,0.5127434135166092,en,9.700000000000001
 the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.15789473684210523,0.4342105263157894,en,9.500000000000002
-Iwate,Iwate,ORG,0.10884353741496597,0.21585557299843008,en,9.100000000000001
 Trump,Trump,ORG,0.019647019647019634,0.13569763569763568,en,9.100000000000001
+Iwate,Iwate,ORG,0.10884353741496597,0.21585557299843008,en,9.100000000000001
 CNN,CNN,ORG,-0.02032520325203249,0.516260162601626,en,8.200000000000001
 Geophysics Agency,Geophysics Agency,ORG,0.07031963470319634,0.27853881278538806,en,7.300000000000001
 CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,7.300000000000001
 MetMalaysia,MetMalaysia,ORG,0.15833333333333335,0.28690476190476194,en,7.0
+Apple,Apple,ORG,0.0029325513196480925,0.21542033235581623,en,6.2
 The Japan Meteorological Agency,The Japan Meteorological Agency,ORG,0.04494047619047619,0.2219246031746032,en,5.6
-SWOT,SWOT,ORG,0.16414141414141414,0.5459595959595961,en,5.5
-the Japanese Meteorological Agency,the Japanese Meteorological Agency,ORG,0.13333333333333333,0.4303030303030303,en,5.5
 CBS News,CBS News,ORG,0.02727272727272727,0.22045454545454543,en,5.5
+the Japanese Meteorological Agency,the Japanese Meteorological Agency,ORG,0.13333333333333333,0.4303030303030303,en,5.5
+SWOT,SWOT,ORG,0.16414141414141414,0.5459595959595961,en,5.5
+Mega Quake,Mega Quake,ORG,0.20506697408871327,0.34243247694334655,en,4.6
 magnitude-7.5,magnitude-7.5,ORG,0.09782608695652174,0.31521739130434784,en,4.6
 BBC,BBC,ORG,0.07155797101449275,0.08333333333333334,en,4.6
-Mega Quake,Mega Quake,ORG,0.20506697408871327,0.34243247694334655,en,4.6
 newsweek.com,newsweek.com,ORG,0.0,0.0,en,4.3999999999999995
 Walmart,Walmart,ORG,0.24951550387596896,0.4118217054263566,en,4.3
 The Malaysian Meteorological Department,The Malaysian Meteorological Department,ORG,0.1569767441860465,0.22674418604651167,en,4.3
-Tsunami Bomb,Tsunami Bomb,ORG,0.04261363636363637,0.0,en,3.9999999999999996
 Elon Musk,Elon Musk,ORG,-0.06666666666666667,0.6222222222222223,en,3.9999999999999996
-the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.13513513513513514,0.4324324324324325,en,3.6999999999999997
-the US Geological Survey,the US Geological Survey,ORG,0.20270270270270271,0.6216216216216216,en,3.6999999999999997
-Google,Google,ORG,0.04243447993447993,0.4608927108927109,en,3.6999999999999997
-CBS News',CBS News',ORG,0.13513513513513514,0.13513513513513514,en,3.6999999999999997
+Tsunami Bomb,Tsunami Bomb,ORG,0.04261363636363637,0.0,en,3.9999999999999996
 Al Jazeera,Al Jazeera,ORG,0.0,0.0,en,3.6999999999999997
-PTSD,PTSD,ORG,0.2797619047619048,0.505952380952381,en,2.8
-HOMEPAGE,HOMEPAGE,ORG,-0.35714285714285715,0.0,en,2.8
-AP News,AP News,ORG,0.2142857142857143,0.35714285714285715,en,2.8
-ABC News,ABC News,ORG,0.011904761904761906,0.10714285714285715,en,2.8
-Mossad,Mossad,ORG,-0.13392857142857142,0.34285714285714286,en,2.8
+Google,Google,ORG,0.04243447993447993,0.4608927108927109,en,3.6999999999999997
+the US Geological Survey,the US Geological Survey,ORG,0.20270270270270271,0.6216216216216216,en,3.6999999999999997
+CBS News',CBS News',ORG,0.13513513513513514,0.13513513513513514,en,3.6999999999999997
+the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.13513513513513514,0.4324324324324325,en,3.6999999999999997
+BNPB,BNPB,ORG,0.07526881720430108,0.564516129032258,en,3.1
 KYODO NEWS,KYODO NEWS,ORG,0.1551580859616574,0.2739254792826221,en,2.8
-The New York Times,The New York Times,ORG,0.1461038961038961,0.3246753246753247,en,2.8
-CIA,CIA,ORG,-0.13392857142857142,0.34285714285714286,en,2.8
-Apple,Apple,ORG,0.024350649350649352,0.3490259740259741,en,2.8
-FEMA,FEMA,ORG,0.03571428571428572,0.14285714285714288,en,2.8
+HOMEPAGE,HOMEPAGE,ORG,-0.35714285714285715,0.0,en,2.8
+PTSD,PTSD,ORG,0.2797619047619048,0.505952380952381,en,2.8
+ABC News,ABC News,ORG,0.011904761904761906,0.10714285714285715,en,2.8
+AP News,AP News,ORG,0.2142857142857143,0.35714285714285715,en,2.8
 Columbia Memorial Hospital,Columbia Memorial Hospital,ORG,0.10044642857142858,0.3035714285714286,en,2.8
+Mossad,Mossad,ORG,-0.13392857142857142,0.34285714285714286,en,2.8
+Palu,Palu,ORG,0.1904761904761905,0.5357142857142857,en,2.8
 World News,World News,ORG,0.02023809523809524,0.230952380952381,en,2.8
+JPMorgan,JPMorgan,ORG,-0.10416666666666666,0.3125,en,2.8
+FEMA,FEMA,ORG,0.03571428571428572,0.14285714285714288,en,2.8
+CIA,CIA,ORG,-0.13392857142857142,0.34285714285714286,en,2.8
+The New York Times,The New York Times,ORG,0.1461038961038961,0.3246753246753247,en,2.8
 Capcom,Capcom,ORG,0.041151515151515154,0.4482828282828284,en,2.4999999999999996
 NDA,NDA,ORG,1.0628156565656566,1.2035984848484849,en,2.4
 House,House,ORG,0.2727272727272728,0.18181818181818185,en,2.1999999999999997
-the Pacific Tsunami Warning Center,the Pacific Tsunami Warning Center,ORG,-0.10526315789473685,0.052631578947368425,en,1.9
-DMK,DMK,ORG,0.07236842105263158,0.0,en,1.9
-ASTORIA,ASTORIA,ORG,0.0,0.2368421052631579,en,1.9
-The Indonesia Tsunami Warning Center,The Indonesia Tsunami Warning Center,ORG,-0.052631578947368425,0.2894736842105263,en,1.9
-Erdelyi-Kober,Erdelyi-Kober,ORG,0.0,0.0,en,1.9
-Vianovo,Vianovo,ORG,0.31578947368421056,0.2105263157894737,en,1.9
-coastNBC News,coastNBC News,ORG,0.18658625730994155,0.2807017543859649,en,1.9
-Cerebras,Cerebras,ORG,-0.026315789473684213,0.13157894736842105,en,1.9
-LNG,LNG,ORG,0.053030303030303025,0.15629984051036686,en,1.9
-the National Audit Office,the National Audit Office,ORG,0.04385964912280702,0.1885964912280702,en,1.9
-JPMorgan,JPMorgan,ORG,-0.05482456140350877,0.19736842105263158,en,1.9
-Japans Meteorological Agency,Japans Meteorological Agency,ORG,0.0,0.0,en,1.9
-Starwood Capital Group,Starwood Capital Group,ORG,0.03947368421052632,0.0,en,1.9
-GOP,GOP,ORG,-0.08187134502923979,0.152046783625731,en,1.9
-Chanakya Exit Poll 2026,Chanakya Exit Poll 2026,ORG,0.14473684210526316,0.35964912280701755,en,1.9
-MAG,MAG,ORG,0.0,0.2631578947368421,en,1.9
-Sky News,Sky News,ORG,-0.3508771929824561,0.21345029239766086,en,1.9
 NFL,NFL,ORG,0.10964912280701755,0.09210526315789473,en,1.9
+ASTORIA,ASTORIA,ORG,0.0,0.2368421052631579,en,1.9
 Congressional,Congressional,ORG,0.31578947368421056,0.2105263157894737,en,1.9
-State,State,ORG,0.4385964912280702,0.2719298245614035,en,1.9
-the German Research Centre for Geosciences,the German Research Centre for Geosciences,ORG,0.0,0.0,en,1.9
-the Bristol Channel,the Bristol Channel,ORG,-0.06578947368421052,0.19736842105263158,en,1.9
-FTA,FTA,ORG,-0.05741626794258373,0.3165869218500798,en,1.9
-CTO,CTO,ORG,0.0,0.0,en,1.9
-Axiom Quant Inc.,Axiom Quant Inc.,ORG,0.18045112781954892,0.3400167084377611,en,1.9
-Lawson Inc,Lawson Inc,ORG,0.17543859649122806,0.29239766081871343,en,1.9
-Brace,Brace,ORG,0.0,0.0,en,1.9
-the Supreme Court,the Supreme Court,ORG,0.0,0.052631578947368425,en,1.9
-Tumaco,Tumaco,ORG,0.3026315789473684,0.19736842105263158,en,1.9
-IWAKI,IWAKI,ORG,0.10526315789473685,0.30701754385964913,en,1.9
-SAATNM,SAATNM,ORG,0.17105263157894735,0.22368421052631582,en,1.9
-"Standalone Sequel to Global Hit ""La Palma","Standalone Sequel to Global Hit ""La Palma",ORG,0.02631578947368421,0.043859649122807015,en,1.9
+Vianovo,Vianovo,ORG,0.31578947368421056,0.2105263157894737,en,1.9
 Netflix,Netflix,ORG,0.02631578947368421,0.043859649122807015,en,1.9
-Takaichi,Takaichi,ORG,0.5263157894736842,0.2631578947368421,en,1.9
-UN,UN,ORG,0.02982456140350877,0.0,en,1.9
-The Japan Times,The Japan Times,ORG,0.19172932330827067,0.3909774436090226,en,1.9
-NHK,NHK,ORG,0.11403508771929824,0.21052631578947367,en,1.9
-the Meteorological Agency,the Meteorological Agency,ORG,0.0,0.4210526315789474,en,1.9
-the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.4342105263157895,0.33771929824561403,en,1.9
-Le média qui,Le média qui,ORG,-0.25087719298245614,0.4947368421052632,en,1.9
-liftedCBS News,liftedCBS News,ORG,0.19725449988607885,0.26455342902711326,en,1.9
-Reform California,Reform California,ORG,0.4385964912280702,0.2719298245614035,en,1.9
-Comiket 107's,Comiket 107's,ORG,-0.0631578947368421,0.3894736842105263,en,1.9
+the Bristol Channel,the Bristol Channel,ORG,-0.06578947368421052,0.19736842105263158,en,1.9
+Chanakya Exit Poll 2026,Chanakya Exit Poll 2026,ORG,0.14473684210526316,0.35964912280701755,en,1.9
+Tumaco,Tumaco,ORG,0.3026315789473684,0.19736842105263158,en,1.9
 the Tongass National Forest,the Tongass National Forest,ORG,-0.2105263157894737,0.2105263157894737,en,1.9
+Starwood Capital Group,Starwood Capital Group,ORG,0.03947368421052632,0.0,en,1.9
+FTA,FTA,ORG,-0.05741626794258373,0.3165869218500798,en,1.9
+GOP,GOP,ORG,-0.08187134502923979,0.152046783625731,en,1.9
+Cerebras,Cerebras,ORG,-0.026315789473684213,0.13157894736842105,en,1.9
+the National Audit Office,the National Audit Office,ORG,0.04385964912280702,0.1885964912280702,en,1.9
+MAG,MAG,ORG,0.0,0.2631578947368421,en,1.9
+the Meteorological Agency,the Meteorological Agency,ORG,0.0,0.4210526315789474,en,1.9
+DMK,DMK,ORG,0.07236842105263158,0.0,en,1.9
+Le média qui,Le média qui,ORG,-0.25087719298245614,0.4947368421052632,en,1.9
+CTO,CTO,ORG,0.0,0.0,en,1.9
+the Supreme Court,the Supreme Court,ORG,0.0,0.052631578947368425,en,1.9
+coastNBC News,coastNBC News,ORG,0.18658625730994155,0.2807017543859649,en,1.9
+Sky News,Sky News,ORG,-0.3508771929824561,0.21345029239766086,en,1.9
+Brace,Brace,ORG,0.0,0.0,en,1.9
+the Pacific Tsunami Warning Center,the Pacific Tsunami Warning Center,ORG,-0.10526315789473685,0.052631578947368425,en,1.9
+Japans Meteorological Agency,Japans Meteorological Agency,ORG,0.0,0.0,en,1.9
+Erdelyi-Kober,Erdelyi-Kober,ORG,0.0,0.0,en,1.9
 EU,EU,ORG,-0.08552631578947369,0.2565789473684211,en,1.9
+State,State,ORG,0.4385964912280702,0.2719298245614035,en,1.9
+Axiom Quant Inc.,Axiom Quant Inc.,ORG,0.18045112781954892,0.3400167084377611,en,1.9
+Reform California,Reform California,ORG,0.4385964912280702,0.2719298245614035,en,1.9
+Takaichi,Takaichi,ORG,0.5263157894736842,0.2631578947368421,en,1.9
+the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.4342105263157895,0.33771929824561403,en,1.9
+Comiket 107's,Comiket 107's,ORG,-0.0631578947368421,0.3894736842105263,en,1.9
+KIN,KIN,ORG,0.0,0.0,en,1.9
+the German Research Centre for Geosciences,the German Research Centre for Geosciences,ORG,0.0,0.0,en,1.9
+liftedCBS News,liftedCBS News,ORG,0.19725449988607885,0.26455342902711326,en,1.9
+Lawson Inc,Lawson Inc,ORG,0.17543859649122806,0.29239766081871343,en,1.9
+LNG,LNG,ORG,0.053030303030303025,0.15629984051036686,en,1.9
 UNESCO,UNESCO,ORG,-0.02456140350877193,0.5263157894736842,en,1.9
-Hellcat Records,Hellcat Records,ORG,0.0,0.0,en,1.7
-Brains,Brains,ORG,-0.20982938629997452,0.3076139546727782,en,1.7
-MNST,MNST,ORG,-0.7352941176470589,0.5882352941176471,en,1.7
+UN,UN,ORG,0.02982456140350877,0.0,en,1.9
+SAATNM,SAATNM,ORG,0.17105263157894735,0.22368421052631582,en,1.9
+The National Disaster Mitigation Agency,The National Disaster Mitigation Agency,ORG,0.2807017543859649,0.39473684210526316,en,1.9
+The Japan Times,The Japan Times,ORG,0.19172932330827067,0.3909774436090226,en,1.9
+IWAKI,IWAKI,ORG,0.10526315789473685,0.30701754385964913,en,1.9
+The Indonesia Tsunami Warning Center,The Indonesia Tsunami Warning Center,ORG,-0.052631578947368425,0.2894736842105263,en,1.9
+"Standalone Sequel to Global Hit ""La Palma","Standalone Sequel to Global Hit ""La Palma",ORG,0.02631578947368421,0.043859649122807015,en,1.9
+NHK,NHK,ORG,0.11403508771929824,0.21052631578947367,en,1.9
 Futurism,Futurism,ORG,-0.05147058823529413,0.19607843137254902,en,1.7
-Army,Army,ORG,-0.03646643842722274,0.3520074696545285,en,1.7
-TBPN,TBPN,ORG,0.0,0.0,en,1.7
-Newsweek,Newsweek,ORG,0.20626432391138275,0.273109243697479,en,1.7
-podcast:1,podcast:1,ORG,0.29411764705882354,0.14705882352941177,en,1.7
-METTAWA,METTAWA,ORG,0.0,0.0,en,1.7
-Rad Girlfriend Records,Rad Girlfriend Records,ORG,0.0,0.0,en,1.7
-Brunswick Corporation,Brunswick Corporation,ORG,0.0,0.0,en,1.7
-NYSE,NYSE,ORG,0.0,0.0,en,1.7
+MNST,MNST,ORG,-0.7352941176470589,0.5882352941176471,en,1.7
 Mercury Marine,Mercury Marine,ORG,0.0,0.0,en,1.7
 OpenAI,OpenAI,ORG,0.0,0.0,en,1.7
-Spyderco,Spyderco,ORG,-0.09150326797385623,0.16993464052287585,en,1.7
+NYSE,NYSE,ORG,0.0,0.0,en,1.7
+Brunswick Corporation,Brunswick Corporation,ORG,0.0,0.0,en,1.7
+METTAWA,METTAWA,ORG,0.0,0.0,en,1.7
+Brains,Brains,ORG,-0.20982938629997452,0.3076139546727782,en,1.7
+podcast:1,podcast:1,ORG,0.29411764705882354,0.14705882352941177,en,1.7
+Army,Army,ORG,-0.03646643842722274,0.3520074696545285,en,1.7
+TBPN,TBPN,ORG,0.0,0.0,en,1.7
+Hellcat Records,Hellcat Records,ORG,0.0,0.0,en,1.7
+Newsweek,Newsweek,ORG,0.20626432391138275,0.273109243697479,en,1.7
+Rad Girlfriend Records,Rad Girlfriend Records,ORG,0.0,0.0,en,1.7
 The Astoria High School Pizazz Dance Team,The Astoria High School Pizazz Dance Team,ORG,0.18823529411764706,0.3176470588235294,en,1.7
+Spyderco,Spyderco,ORG,-0.09150326797385623,0.16993464052287585,en,1.7
 hiat,hiat,ORG,0.0,0.0,en,1.7
 SSH,SSH,ORG,-0.20833333333333331,0.20833333333333331,en,1.6
 Nvidia,Nvidia,ORG,-0.5625,1.0,en,1.6
 Us Weekly,Us Weekly,ORG,-0.3365384615384615,0.0,en,1.3
-LEGO,LEGO,ORG,0.19638694638694634,0.30944055944055937,en,1.3
+The US Geological Survey,The US Geological Survey,ORG,0.0,0.0,en,1.3
+Uni,Uni,ORG,0.07750582750582749,0.0,en,1.3
+the National Weather Service,the National Weather Service,ORG,0.3333333333333333,0.2841880341880342,en,1.3
 Agentic AI,Agentic AI,ORG,0.16899766899766896,0.23892773892773891,en,1.3
-Disney,Disney,ORG,0.1282051282051282,0.2564102564102564,en,1.3
-BNPB,BNPB,ORG,-0.23076923076923075,0.1923076923076923,en,1.3
 National Disaster Mitigation Agency,National Disaster Mitigation Agency,ORG,-0.23076923076923075,0.1923076923076923,en,1.3
+WTNH,WTNH,ORG,0.13486513486513485,0.0,en,1.3
+Connecticut House,Connecticut House,ORG,0.0,0.0,en,1.3
+LEGO,LEGO,ORG,0.19638694638694634,0.30944055944055937,en,1.3
 Ford,Ford,ORG,0.22960372960372957,0.34965034965034963,en,1.3
 GTC,GTC,ORG,-0.6923076923076923,0.6153846153846154,en,1.3
-Connecticut House,Connecticut House,ORG,0.0,0.0,en,1.3
-WTNH,WTNH,ORG,0.13486513486513485,0.0,en,1.3
-the National Weather Service,the National Weather Service,ORG,0.3333333333333333,0.2841880341880342,en,1.3
+Disney,Disney,ORG,0.1282051282051282,0.2564102564102564,en,1.3
 SSHStalker,SSHStalker,ORG,0.0909090909090909,0.2517482517482517,en,1.3
-Uni,Uni,ORG,0.07750582750582749,0.0,en,1.3
-The US Geological Survey,The US Geological Survey,ORG,0.0,0.0,en,1.3
 Pfizer,Pfizer,ORG,-0.05303030303030304,0.6458333333333333,en,1.2000000000000002
 MGB,MGB,ORG,0.1534090909090909,0.5113636363636364,en,1.2
 Paradise,Paradise,ORG,0.2734375,0.4166666666666667,en,1.2
 Depo-Provera,Depo-Provera,ORG,-0.18181818181818182,0.0,en,1.1
 Manufacturing Dive,Manufacturing Dive,ORG,0.46212121212121204,0.2424242424242424,en,1.1
-Blockade,Blockade,ORG,0.025,0.0,en,1.0
-IDF,IDF,ORG,0.025,0.0,en,1.0
-Live Updates,Live Updates,ORG,0.13636363636363635,0.0,en,1.0
-The Weather Channel,The Weather Channel,ORG,0.0,0.0,en,1.0
-Jazeera Strong,Jazeera Strong,ORG,0.195,0.0,en,1.0
-Northeastern Japan,Northeastern Japan,ORG,0.2,0.0,en,1.0
-quakeThe Japan Times,quakeThe Japan Times,ORG,0.27172619047619045,0.0,en,1.0
 The Cabinet Office,The Cabinet Office,ORG,0.020833333333333332,0.0,en,1.0
+the National Centre for Seismology,the National Centre for Seismology,ORG,0.1,0.0,en,1.0
+Blockade,Blockade,ORG,0.025,0.0,en,1.0
+quakeThe Japan Times,quakeThe Japan Times,ORG,0.27172619047619045,0.0,en,1.0
 CDATA,CDATA,ORG,0.3,0.0,en,1.0
-Nagano Prefecturenhk.or.jp Japan,Nagano Prefecturenhk.or.jp Japan,ORG,0.1231060606060606,0.0,en,1.0
+The Weather Channel,The Weather Channel,ORG,0.0,0.0,en,1.0
+Miller,Miller,ORG,0.0,0.0,en,1.0
+NCS,NCS,ORG,0.1,0.0,en,1.0
+CHENNAI,CHENNAI,ORG,0.0,0.0,en,1.0
+IDF,IDF,ORG,0.025,0.0,en,1.0
 alertsNBC,alertsNBC,ORG,0.078125,0.0,en,1.0
 The Japan Meteorological Agency's,The Japan Meteorological Agency's,ORG,0.15238095238095237,0.0,en,1.0
+IST,IST,ORG,0.0,0.0,en,1.0
 A.I.,A.I.,ORG,0.2727272727272727,0.6545454545454545,en,1.0
-Pacific Tsunami Warning Center,Pacific Tsunami Warning Center,ORG,-0.026060606060606062,0.0,en,1.0
-the Japan Meteorological Ag,the Japan Meteorological Ag,ORG,0.3,0.0,en,1.0
-Natural News,Natural News,ORG,0.09166666666666667,0.0,en,1.0
+Jazeera Strong,Jazeera Strong,ORG,0.195,0.0,en,1.0
+CDC,CDC,ORG,0.040705128205128206,0.0,en,1.0
+Malaysian Meteorological Department,Malaysian Meteorological Department,ORG,0.0,0.0,en,1.0
+GUARDIAN,GUARDIAN,ORG,0.0,0.0,en,1.0
+Medicare,Medicare,ORG,0.0,0.0,en,1.0
+Kremlin,Kremlin,ORG,-0.1625,0.0,en,1.0
 Lindell TVs DC Dispatch,Lindell TVs DC Dispatch,ORG,0.16603174603174603,0.0,en,1.0
 DC Dispatch,DC Dispatch,ORG,0.16603174603174603,0.0,en,1.0
 Lindell TV’s,Lindell TV’s,ORG,0.16603174603174603,0.0,en,1.0
@@ -162,14 +169,14 @@ Sri Vijaya Puram,Sri Vijaya Puram,ORG,0.4,0.0,en,1.0
 Nicobar Islands Directorate of Disaster Management,Nicobar Islands Directorate of Disaster Management,ORG,0.0,0.0,en,1.0
 Harley-Davidson,Harley-Davidson,ORG,0.0,0.0,en,1.0
 Takuma Hashimoto,Takuma Hashimoto,ORG,0.05,0.0,en,1.0
-RSP,RSP,ORG,0.17,0.0,en,1.0
-The Rashtriya Swatantrata Party,The Rashtriya Swatantrata Party,ORG,0.06818181818181818,0.0,en,1.0
-Rashtriya Swatantrata Party,Rashtriya Swatantrata Party,ORG,0.0,0.0,en,1.0
-the Cult of Mac,the Cult of Mac,ORG,0.0,0.0,en,1.0
-Kremlin,Kremlin,ORG,-0.1625,0.0,en,1.0
-Medicare,Medicare,ORG,0.0,0.0,en,1.0
-GUARDIAN,GUARDIAN,ORG,0.0,0.0,en,1.0
-Texas Instruments,Texas Instruments,ORG,0.0,0.0,en,1.0
+LUGANVILLE,LUGANVILLE,ORG,0.0,0.0,en,1.0
+​earth,​earth,ORG,0.060238095238095236,0.0,en,1.0
+Northeastern Japan,Northeastern Japan,ORG,0.2,0.0,en,1.0
+Pacific Tsunami Warning Center,Pacific Tsunami Warning Center,ORG,-0.026060606060606062,0.0,en,1.0
+Live Updates,Live Updates,ORG,0.13636363636363635,0.0,en,1.0
+Nagano Prefecturenhk.or.jp Japan,Nagano Prefecturenhk.or.jp Japan,ORG,0.1231060606060606,0.0,en,1.0
+the Japan Meteorological Ag,the Japan Meteorological Ag,ORG,0.3,0.0,en,1.0
+Natural News,Natural News,ORG,0.09166666666666667,0.0,en,1.0
 Edison Reed,Edison Reed,ORG,0.09166666666666667,0.0,en,1.0
 RIP Agile,RIP Agile,ORG,0.10416666666666666,0.0,en,1.0
 Software,Software,ORG,0.5,0.0,en,1.0
@@ -177,46 +184,48 @@ Birthright Citizenship,Birthright Citizenship,ORG,0.0,0.0,en,1.0
 the Knowledge Wave,the Knowledge Wave,ORG,0.0,0.0,en,1.0
 Tech,Tech,ORG,0.0,0.0,en,1.0
 Cascadia Fault Builds Toward,Cascadia Fault Builds Toward,ORG,0.0,0.0,en,1.0
+Texas Instruments,Texas Instruments,ORG,0.0,0.0,en,1.0
 veja vídeo,veja vídeo,ORG,0.0,0.0,en,1.0
-Malaysian Meteorological Department,Malaysian Meteorological Department,ORG,0.0,0.0,en,1.0
 terremoto de,terremoto de,ORG,0.0,0.0,en,1.0
 Indonésia,Indonésia,ORG,0.0,0.0,en,1.0
+"Bennett, Coleman &amp;","Bennett, Coleman &amp;",ORG,0.03333333333333333,0.0,en,1.0
 IndonesiaThe Guardian,IndonesiaThe Guardian,ORG,0.12916666666666665,0.0,en,1.0
-the National Centre for Seismology,the National Centre for Seismology,ORG,0.1,0.0,en,1.0
-​earth,​earth,ORG,0.060238095238095236,0.0,en,1.0
-CDC,CDC,ORG,0.040705128205128206,0.0,en,1.0
-LUGANVILLE,LUGANVILLE,ORG,0.0,0.0,en,1.0
-Miller,Miller,ORG,0.0,0.0,en,1.0
-Albanese,Albanese,ORG,-0.7,0.0,en,1.0
-NCS,NCS,ORG,0.1,0.0,en,1.0
-Tsunami Skippers,Tsunami Skippers,ORG,0.0,0.0,en,1.0
+PMK,PMK,ORG,0.0,0.0,en,1.0
+DIU,DIU,ORG,0.0,0.0,en,1.0
+Times Syndication Service,Times Syndication Service,ORG,0.0,0.0,en,1.0
+Maritime Tsunami And Rebuild America’s,Maritime Tsunami And Rebuild America’s,ORG,0.0,0.0,en,1.0
+The Philippine Institute of Volcanology and Seismology,The Philippine Institute of Volcanology and Seismology,ORG,0.05000000000000002,0.0,en,1.0
+the German Research Center for Geosciences,the German Research Center for Geosciences,ORG,-0.03333333333333333,0.0,en,1.0
+"the German Research
+Centre for Geosciences (GFZ","the German Research
+Centre for Geosciences (GFZ",ORG,0.0,0.0,en,1.0
+CRKT,CRKT,ORG,0.0,0.0,en,1.0
+Benchmade,Benchmade,ORG,0.0,0.0,en,1.0
 Charli XCX,Charli XCX,ORG,-0.09999999999999998,0.0,en,1.0
 Thurrott.com,Thurrott.com,ORG,0.25,0.0,en,1.0
 BRS,BRS,ORG,0.225,0.0,en,1.0
 BRS Shipbrokers,BRS Shipbrokers,ORG,0.225,0.0,en,1.0
-Maritime Tsunami And Rebuild America’s,Maritime Tsunami And Rebuild America’s,ORG,0.0,0.0,en,1.0
 The Church of Jesu,The Church of Jesu,ORG,0.5,0.0,en,1.0
+the European Centre for Disease Prevention and Control,the European Centre for Disease Prevention and Control,ORG,0.0,0.0,en,1.0
 The Church,The Church,ORG,0.16193181818181818,0.0,en,1.0
 NEW RESOURCES,NEW RESOURCES,ORG,0.04924242424242423,0.0,en,1.0
 Macro Photography,Macro Photography,ORG,0.25,0.0,en,1.0
+Tsunami Skippers,Tsunami Skippers,ORG,0.0,0.0,en,1.0
 Amazon,Amazon,ORG,-0.09999999999999998,0.0,en,1.0
-National Research Institute,National Research Institute,ORG,0.0,0.0,en,1.0
 Volcano Observatory,Volcano Observatory,ORG,0.03333333333333333,0.0,en,1.0
 Acco,Acco,ORG,0.0,0.0,en,1.0
 HONAUNAU,HONAUNAU,ORG,-0.05,0.0,en,1.0
 The Ignorant Fisherman,The Ignorant Fisherman,ORG,-1.0,0.0,en,1.0
-ECDC,ECDC,ORG,0.0,0.0,en,1.0
-the European Centre for Disease Prevention and Control,the European Centre for Disease Prevention and Control,ORG,0.0,0.0,en,1.0
-STI,STI,ORG,-0.5,0.0,en,1.0
-Colorado Democratic party,Colorado Democratic party,ORG,0.0,0.0,en,1.0
-USIsraeli,USIsraeli,ORG,0.0,0.0,en,1.0
-Benchmade,Benchmade,ORG,0.0,0.0,en,1.0
-CRKT,CRKT,ORG,0.0,0.0,en,1.0
-"the German Research
-Centre for Geosciences (GFZ","the German Research
-Centre for Geosciences (GFZ",ORG,0.0,0.0,en,1.0
-the German Research Center for Geosciences,the German Research Center for Geosciences,ORG,-0.03333333333333333,0.0,en,1.0
+the Philippine Coast Guard,the Philippine Coast Guard,ORG,0.0,0.0,en,1.0
+Coast Guard,Coast Guard,ORG,0.0,0.0,en,1.0
+AFP,AFP,ORG,0.0,0.0,en,1.0
+Tsunami Advisory Issued Along Pacific Coast After Powerful Earthquake Near,Tsunami Advisory Issued Along Pacific Coast After Powerful Earthquake Near,ORG,0.2,0.0,en,1.0
+JPMorgan Chase,JPMorgan Chase,ORG,-0.1840277777777778,0.0,en,1.0
+Crispus,Crispus,ORG,0.20714285714285716,0.0,en,1.0
+Democratic Party’s Corollary,Democratic Party’s Corollary,ORG,0.0,0.0,en,1.0
+the momentThe Washington Post Breaking Down,the momentThe Washington Post Breaking Down,ORG,0.0014814814814814725,0.0,en,1.0
 GPS,GPS,ORG,0.2,0.0,en,1.0
+Apple TV,Apple TV,ORG,0.1,0.0,en,1.0
 Democratic Party’s,Democratic Party’s,ORG,-0.125,0.0,en,1.0
 Monster Beverage Corporation,Monster Beverage Corporation,ORG,-0.625,0.0,en,1.0
 Vasan,Vasan,ORG,0.6,0.0,en,1.0
@@ -232,41 +241,41 @@ Office of Civil Defense,Office of Civil Defense,ORG,0.0,0.0,en,1.0
 "the Japan Met… TOKYO -
  A","the Japan Met… TOKYO -
  A",ORG,0.13999999999999999,0.0,en,1.0
-Tsunami Advisory Issued Along Pacific Coast After Powerful Earthquake Near,Tsunami Advisory Issued Along Pacific Coast After Powerful Earthquake Near,ORG,0.2,0.0,en,1.0
-AFP,AFP,ORG,0.0,0.0,en,1.0
-Coast Guard,Coast Guard,ORG,0.0,0.0,en,1.0
-the Philippine Coast Guard,the Philippine Coast Guard,ORG,0.0,0.0,en,1.0
-The Philippine Institute of Volcanology and Seismology,The Philippine Institute of Volcanology and Seismology,ORG,0.05000000000000002,0.0,en,1.0
-SEBI,SEBI,ORG,0.0,0.0,en,1.0
-Amami,Amami,ORG,0.4333333333333333,0.0,en,1.0
-IST,IST,ORG,0.0,0.0,en,1.0
-Tesla,Tesla,ORG,-0.024999999999999994,0.0,en,1.0
+ECDC,ECDC,ORG,0.0,0.0,en,1.0
+STI,STI,ORG,-0.5,0.0,en,1.0
+Prime Video,Prime Video,ORG,0.5,0.0,en,1.0
+Himanta,Himanta,ORG,0.0,0.0,en,1.0
+Brunswick Corporation Collaborates,Brunswick Corporation Collaborates,ORG,0.0,0.0,en,1.0
+the Norwegian Netflix,the Norwegian Netflix,ORG,0.049999999999999996,0.0,en,1.0
+Albanese,Albanese,ORG,-0.7,0.0,en,1.0
+LinkedIn,LinkedIn,ORG,-0.7,0.0,en,1.0
+CGT,CGT,ORG,0.0,0.0,en,1.0
 "the University of Calgary
 ","the University of Calgary
 ",ORG,0.20000000000000004,0.0,en,1.0
 Popular Science,Popular Science,ORG,0.425,0.0,en,1.0
 Indi,Indi,ORG,-0.05454545454545454,0.0,en,1.0
 the Bharatiya Janata Party,the Bharatiya Janata Party,ORG,0.1375,0.0,en,1.0
-Himanta,Himanta,ORG,0.0,0.0,en,1.0
 TVK,TVK,ORG,0.0,0.0,en,1.0
+Colorado Democratic party,Colorado Democratic party,ORG,0.0,0.0,en,1.0
 Chanakya,Chanakya,ORG,0.0,0.0,en,1.0
 the Japan Meteorologic,the Japan Meteorologic,ORG,0.26666666666666666,0.0,en,1.0
 SpaceX CE,SpaceX CE,ORG,-0.024999999999999994,0.0,en,1.0
+Tesla,Tesla,ORG,-0.024999999999999994,0.0,en,1.0
 Musk,Musk,ORG,0.0,0.0,en,1.0
-LAUSBUB,LAUSBUB,ORG,-0.12121212121212122,0.0,en,1.0
 OTSUCHI,OTSUCHI,ORG,-0.08333333333333336,0.0,en,1.0
 Big Tech workersYahoo Finance Meta,Big Tech workersYahoo Finance Meta,ORG,0.07500000000000001,0.0,en,1.0
 House of Representatives,House of Representatives,ORG,0.17532467532467533,0.0,en,1.0
 Tsunami Umino's,Tsunami Umino's,ORG,0.5,0.0,en,1.0
-Prime Video,Prime Video,ORG,0.5,0.0,en,1.0
-Times Syndication Service,Times Syndication Service,ORG,0.0,0.0,en,1.0
-"Bennett, Coleman &amp;","Bennett, Coleman &amp;",ORG,0.03333333333333333,0.0,en,1.0
-PMK,PMK,ORG,0.0,0.0,en,1.0
-CHENNAI,CHENNAI,ORG,0.0,0.0,en,1.0
-CGT,CGT,ORG,0.0,0.0,en,1.0
-LinkedIn,LinkedIn,ORG,-0.7,0.0,en,1.0
-Apple news,Apple news,ORG,0.5,0.0,en,1.0
-the Norwegian Netflix,the Norwegian Netflix,ORG,0.049999999999999996,0.0,en,1.0
+Textron Systems,Textron Systems,ORG,0.0,0.0,en,1.0
+The Rashtriya Swatantrata Party,The Rashtriya Swatantrata Party,ORG,0.06818181818181818,0.0,en,1.0
+U.S. Navy Fourth Fleet,U.S. Navy Fourth Fleet,ORG,0.0,0.0,en,1.0
+SOUTHCOM,SOUTHCOM,ORG,0.0,0.0,en,1.0
+USIsraeli,USIsraeli,ORG,0.0,0.0,en,1.0
+SEBI,SEBI,ORG,0.0,0.0,en,1.0
+National Research Institute,National Research Institute,ORG,0.0,0.0,en,1.0
+Amami,Amami,ORG,0.4333333333333333,0.0,en,1.0
+LAUSBUB,LAUSBUB,ORG,-0.12121212121212122,0.0,en,1.0
 "Wikimedia Commons
 ","Wikimedia Commons
 ",ORG,-0.16666666666666666,0.0,en,1.0
@@ -283,15 +292,11 @@ Scientific American’s,Scientific American’s,ORG,0.16666666666666666,0.0,en,1
 Vogue,Vogue,ORG,-0.5,0.0,en,1.0
 Polanski,Polanski,ORG,-0.40277777777777773,0.0,en,1.0
 Navico Group,Navico Group,ORG,0.0,0.0,en,1.0
-SOUTHCOM,SOUTHCOM,ORG,0.0,0.0,en,1.0
-U.S. Navy Fourth Fleet,U.S. Navy Fourth Fleet,ORG,0.0,0.0,en,1.0
-DIU,DIU,ORG,0.0,0.0,en,1.0
-Textron Systems,Textron Systems,ORG,0.0,0.0,en,1.0
-Brunswick Corporation Collaborates,Brunswick Corporation Collaborates,ORG,0.0,0.0,en,1.0
-MacBook,MacBook,ORG,0.0,0.0,en,1.0
-Tsunami Films,Tsunami Films,ORG,0.0,0.0,en,1.0
-Cult of Mac - Your,Cult of Mac - Your,ORG,0.5,0.0,en,1.0
-AsiaThe New York Times Frustration,AsiaThe New York Times Frustration,ORG,-0.00899621212121212,0.0,en,1.0
+RSP,RSP,ORG,0.17,0.0,en,1.0
+Nurse Service,Nurse Service,ORG,0.0,0.0,en,1.0
+Rashtriya Swatantrata Party,Rashtriya Swatantrata Party,ORG,0.0,0.0,en,1.0
+The Pacific Ring of Fire,The Pacific Ring of Fire,ORG,-0.03392857142857143,0.0,en,1.0
+LLC,LLC,ORG,0.0,0.0,en,1.0
 Fed,Fed,ORG,-0.20000000000000004,0.0,en,1.0
 Warner Bros,Warner Bros,ORG,-0.20000000000000004,0.0,en,1.0
 Paramount,Paramount,ORG,-0.20000000000000004,0.0,en,1.0
@@ -312,11 +317,12 @@ The U.S. Geological Survey,The U.S. Geological Survey,ORG,0.09999999999999999,0.
 the Washington Com,the Washington Com,ORG,0.0,0.0,en,1.0
 the Washington Commanders,the Washington Commanders,ORG,0.07500000000000001,0.0,en,1.0
 Convert,Convert,ORG,0.25,0.0,en,1.0
-Starwood,Starwood,ORG,0.25,0.0,en,1.0
-LLC,LLC,ORG,0.0,0.0,en,1.0
 Notre-Dame,Notre-Dame,ORG,-0.2,0.0,en,1.0
-The Pacific Ring of Fire,The Pacific Ring of Fire,ORG,-0.03392857142857143,0.0,en,1.0
-regionCBS News,regionCBS News,ORG,0.04545454545454545,0.0,en,1.0
+CCTV,CCTV,ORG,-0.21666666666666665,0.0,en,1.0
+CNES,CNES,ORG,0.15,0.0,en,1.0
+coastNBC News Japan,coastNBC News Japan,ORG,0.2388888888888889,0.0,en,1.0
+the White House,the White House,ORG,-0.0625,0.0,en,1.0
+The Associated Press,The Associated Press,ORG,0.27878787878787875,0.0,en,1.0
 BP Plc,BP Plc,ORG,0.033333333333333326,0.0,en,1.0
 BP,BP,ORG,0.0,0.0,en,1.0
 Brown University,Brown University,ORG,-0.1,0.0,en,1.0
@@ -326,8 +332,8 @@ Oregon Hospital,Oregon Hospital,ORG,0.0,0.0,en,1.0
 megaquake,megaquake,ORG,0.3,0.0,en,1.0
 NPR,NPR,ORG,0.0,0.0,en,1.0
 +5654,+5654,ORG,0.0,0.0,en,1.0
+regionCBS News,regionCBS News,ORG,0.04545454545454545,0.0,en,1.0
 Iwat,Iwat,ORG,0.0,0.0,en,1.0
-CCTV,CCTV,ORG,-0.21666666666666665,0.0,en,1.0
 N… Aomori,N… Aomori,ORG,0.0,0.0,en,1.0
 03:34:00,03:34:00,ORG,0.0,0.0,en,1.0
 "Sagar, Madhya Pradesh","Sagar, Madhya Pradesh",ORG,0.0,0.0,en,1.0
@@ -336,11 +342,10 @@ NHS,NHS,ORG,-0.33333333333333337,0.0,en,1.0
 Japan Meteorological Agency,Japan Meteorological Agency,ORG,0.04034090909090909,0.0,en,1.0
 White House's,White House's,ORG,-0.08333333333333333,0.0,en,1.0
 GDPYahoo,GDPYahoo,ORG,0.10416666666666667,0.0,en,1.0
-coastNBC News Japan,coastNBC News Japan,ORG,0.2388888888888889,0.0,en,1.0
-CNES,CNES,ORG,0.15,0.0,en,1.0
-lethalThe Guardian,lethalThe Guardian,ORG,-0.00899621212121212,0.0,en,1.0
-"the ""Cult of Mac""","the ""Cult of Mac""",ORG,0.3806818181818182,0.0,en,1.0
-HANOI Southeast Asia,HANOI Southeast Asia,ORG,0.35,0.0,en,1.0
+Starwood,Starwood,ORG,0.25,0.0,en,1.0
+AsiaThe New York Times Frustration,AsiaThe New York Times Frustration,ORG,-0.00899621212121212,0.0,en,1.0
+the Cult of Mac,the Cult of Mac,ORG,0.0,0.0,en,1.0
+CNN Panel After Declaring A Bad Night For Democrats,CNN Panel After Declaring A Bad Night For Democrats,ORG,-0.6999999999999998,0.0,en,1.0
 MIA,MIA,ORG,0.0,0.0,en,1.0
 Reuters ConnectThe AI revolution,Reuters ConnectThe AI revolution,ORG,0.0,0.0,en,1.0
 IMAGO,IMAGO,ORG,-0.1,0.0,en,1.0
@@ -365,9 +370,10 @@ State Emergency Service,State Emergency Service,ORG,-0.2,0.0,en,1.0
 "UN News
 ","UN News
 ",ORG,0.056666666666666664,0.0,en,1.0
-CNN Panel After Declaring A Bad Night For Democrats,CNN Panel After Declaring A Bad Night For Democrats,ORG,-0.6999999999999998,0.0,en,1.0
 Newsmax,Newsmax,ORG,-0.33333333333333326,0.0,en,1.0
-Mahagathbandhan,Mahagathbandhan,ORG,0.18409090909090908,0.0,en,1.0
+lethalThe Guardian,lethalThe Guardian,ORG,-0.00899621212121212,0.0,en,1.0
+NBC,NBC,ORG,-0.33333333333333326,0.0,en,1.0
+HANOI Southeast Asia,HANOI Southeast Asia,ORG,0.35,0.0,en,1.0
 Batticaloa,Batticaloa,ORG,-0.1875,0.0,en,1.0
 NA,NA,ORG,0.0,0.0,en,1.0
 Litton Industries,Litton Industries,ORG,0.0,0.0,en,1.0
@@ -377,8 +383,8 @@ UC San Diego,UC San Diego,ORG,0.011111111111111108,0.0,en,1.0
 UCSD,UCSD,ORG,0.3,0.0,en,1.0
 Oracle,Oracle,ORG,0.0,0.0,en,1.0
 Nvidia Invest,Nvidia Invest,ORG,0.0,0.6666666666666666,en,1.0
+Mahagathbandhan,Mahagathbandhan,ORG,0.18409090909090908,0.0,en,1.0
 NDA tsunami &,NDA tsunami &,ORG,0.0,0.0,en,1.0
-NBC,NBC,ORG,-0.33333333333333326,0.0,en,1.0
 National Democratic Alliance,National Democratic Alliance,ORG,0.5,0.0,en,1.0
 NOAA,NOAA,ORG,0.125,0.0,en,1.0
 Super Typhoon Uwan,Super Typhoon Uwan,ORG,0.18888888888888888,0.0,en,1.0
@@ -388,10 +394,13 @@ Tsunami Advisory Issued for Iwate,Tsunami Advisory Issued for Iwate,ORG,0.0,0.0,
 the Japan Meteorological Agency TOKYO,the Japan Meteorological Agency TOKYO,ORG,0.275,0.0,en,1.0
 FedE,FedE,ORG,-0.20000000000000004,0.0,en,1.0
 UPS,UPS,ORG,-0.20000000000000004,0.0,en,1.0
-The Associated Press,The Associated Press,ORG,0.27878787878787875,0.0,en,1.0
-the White House,the White House,ORG,-0.0625,0.0,en,1.0
 the Oval Office,the Oval Office,ORG,-0.0625,0.0,en,1.0
 impr,impr,ORG,0.0,0.0,en,1.0
+le monde 120km,le monde 120km,ORG,-0.25666666666666665,0.0,en,1.0
+fox,fox,ORG,0.6,0.0,en,1.0
+TVMFukushima,TVMFukushima,ORG,-1.0,0.0,en,1.0
+Liberal Party,Liberal Party,ORG,0.0,0.0,en,1.0
+Labor,Labor,ORG,0.0,0.0,en,1.0
 Malinauskas,Malinauskas,ORG,0.0,0.0,en,1.0
 the Liberal Party's,the Liberal Party's,ORG,-0.05,0.0,en,1.0
 Axios,Axios,ORG,-0.4,0.0,en,1.0
@@ -399,10 +408,10 @@ AMZN,AMZN,ORG,-0.6666666666666666,0.0,en,1.0
 Science &amp,Science &amp,ORG,0.5,0.0,en,1.0
 infrastructu,infrastructu,ORG,0.06875,0.0,en,1.0
 hospice care association,hospice care association,ORG,0.0,0.0,en,1.0
-Nurse Service,Nurse Service,ORG,0.0,0.0,en,1.0
 Los Alamos,Los Alamos,ORG,0.0,0.0,en,1.0
 Mayumi,Mayumi,ORG,-0.5,0.0,en,1.0
 The Social Democrats,The Social Democrats,ORG,0.016666666666666666,0.0,en,1.0
+Tsunami Films,Tsunami Films,ORG,0.0,0.0,en,1.0
 @foodie.beats Disney,@foodie.beats Disney,ORG,0.2333333333333333,0.0,en,1.0
 Anthropic’s Safeguards Research Team,Anthropic’s Safeguards Research Team,ORG,0.35,0.0,en,1.0
 +5003,+5003,ORG,-0.16666666666666666,0.0,en,1.0
@@ -410,13 +419,14 @@ Flare,Flare,ORG,-0.16666666666666666,0.0,en,1.0
 Justice,Justice,ORG,-0.16666666666666666,0.0,en,1.0
 Taiwan Semiconductor,Taiwan Semiconductor,ORG,0.0,0.0,en,1.0
 RSC,RSC,ORG,0.0,0.0,en,1.0
-a Regional Service Centre,a Regional Service Centre,ORG,0.0,0.0,en,1.0
-INCOIS,INCOIS,ORG,0.0,0.0,en,1.0
-Indian National Centre for Ocean Information and Services,Indian National Centre for Ocean Information and Services,ORG,0.0,0.0,en,1.0
-Labor,Labor,ORG,0.0,0.0,en,1.0
-Liberal Party,Liberal Party,ORG,0.0,0.0,en,1.0
-TVMFukushima,TVMFukushima,ORG,-1.0,0.0,en,1.0
-Anthropic,Anthropic,ORG,0.0,0.0,en,1.0
+HOMEPAG,HOMEPAG,ORG,-1.0,0.0,en,1.0
+Hamas,Hamas,ORG,0.13636363636363635,0.0,en,1.0
+Lance Eaton,Lance Eaton,ORG,-0.038888888888888896,0.0,en,1.0
+India Business News,India Business News,ORG,0.04545454545454545,0.0,en,1.0
+MacBook,MacBook,ORG,0.0,0.0,en,1.0
+Apple news,Apple news,ORG,0.5,0.0,en,1.0
+Cult of Mac - Your,Cult of Mac - Your,ORG,0.5,0.0,en,1.0
+"the ""Cult of Mac""","the ""Cult of Mac""",ORG,0.3806818181818182,0.0,en,1.0
 Cult of Mac,Cult of Mac,ORG,0.0,0.0,en,1.0
 MacBook Neo,MacBook Neo,ORG,0.0,0.0,en,1.0
 KATHMANDU,KATHMANDU,ORG,0.05000000000000002,0.0,en,1.0
@@ -426,23 +436,21 @@ Nuclear Reactor Restart,Nuclear Reactor Restart,ORG,0.05,0.0,en,1.0
 Kashi,Kashi,ORG,0.175,0.0,en,1.0
 International Energy Statistics,International Energy Statistics,ORG,0.175,0.0,en,1.0
 U.S. Energy Information Administration,U.S. Energy Information Administration,ORG,0.175,0.0,en,1.0
+Anthropic,Anthropic,ORG,0.0,0.0,en,1.0
 Lawson,Lawson,ORG,0.0,0.0,en,1.0
-HOMEPAG,HOMEPAG,ORG,-1.0,0.0,en,1.0
 Yahoo,Yahoo,ORG,0.0,0.0,en,1.0
 Hearst Magazines,Hearst Magazines,ORG,0.0,0.0,en,1.0
 Bell,Bell,ORG,0.06666666666666667,0.0,en,1.0
 Amodei,Amodei,ORG,0.0,0.0,en,1.0
 Revolutionary Technologies,Revolutionary Technologies,ORG,0.0,0.0,en,1.0
 International Monetary Fund,International Monetary Fund,ORG,0.04545454545454545,0.0,en,1.0
-India Business News,India Business News,ORG,0.04545454545454545,0.0,en,1.0
-Hamas,Hamas,ORG,0.13636363636363635,0.0,en,1.0
-fox,fox,ORG,0.6,0.0,en,1.0
+a Regional Service Centre,a Regional Service Centre,ORG,0.0,0.0,en,1.0
+INCOIS,INCOIS,ORG,0.0,0.0,en,1.0
+Indian National Centre for Ocean Information and Services,Indian National Centre for Ocean Information and Services,ORG,0.0,0.0,en,1.0
 Labour,Labour,ORG,0.0,0.0,en,1.0
-University Placement Cell,University Placement Cell,ORG,0.07708333333333334,0.0,en,1.0
-JMI,JMI,ORG,0.0,0.0,en,1.0
-"BI
-Corporate America","BI
-Corporate America",ORG,0.25,0.0,en,1.0
+unex,unex,ORG,0.1,0.0,en,1.0
+sourcespacehas,sourcespacehas,ORG,0.1,0.0,en,1.0
+Tottori,Tottori,ORG,0.21666666666666665,0.0,en,1.0
 KYODO NEWS Magnitu,KYODO NEWS Magnitu,ORG,0.22291666666666668,0.0,en,1.0
 shakesThe Japan Times Strong,shakesThe Japan Times Strong,ORG,0.22291666666666668,0.0,en,1.0
 Reels,Reels,ORG,0.0,0.0,en,1.0
@@ -453,9 +461,11 @@ MEXICO CITY &gt;&gt,MEXICO CITY &gt;&gt,ORG,0.1715909090909091,0.0,en,1.0
 National Weather Service Reports,National Weather Service Reports,ORG,0.09999999999999999,0.0,en,1.0
 BICorporate America,BICorporate America,ORG,0.5,0.0,en,1.0
 "BI
+Corporate America","BI
+Corporate America",ORG,0.25,0.0,en,1.0
+"BI
 ","BI
 ",ORG,0.25,0.0,en,1.0
-sourcespacehas,sourcespacehas,ORG,0.1,0.0,en,1.0
 Federal Reserve Note,Federal Reserve Note,ORG,0.0,0.0,en,1.0
 Blue Origin's,Blue Origin's,ORG,0.0,0.0,en,1.0
 Blue Origin,Blue Origin,ORG,0.0,0.0,en,1.0
@@ -463,30 +473,28 @@ tsunamiMSN NA…,tsunamiMSN NA…,ORG,-0.22000000000000003,0.0,en,1.0
 le monde NASA,le monde NASA,ORG,-0.22000000000000003,0.0,en,1.0
 Mediagazer,Mediagazer,ORG,0.0,0.0,en,1.0
 AI news,AI news,ORG,-0.05,0.0,en,1.0
-Lance Eaton,Lance Eaton,ORG,-0.038888888888888896,0.0,en,1.0
-le monde 120km,le monde 120km,ORG,-0.25666666666666665,0.0,en,1.0
-Tottori,Tottori,ORG,0.21666666666666665,0.0,en,1.0
-unex,unex,ORG,0.1,0.0,en,1.0
+Elon,Elon,ORG,0.4,0.0,en,1.0
+Elon Musk's,Elon Musk's,ORG,-0.07142857142857142,0.0,en,1.0
+Ofcom,Ofcom,ORG,0.6,0.0,en,1.0
+Govt,Govt,ORG,0.0,0.0,en,1.0
+University Placement Cell,University Placement Cell,ORG,0.07708333333333334,0.0,en,1.0
+JMI,JMI,ORG,0.0,0.0,en,1.0
 Mahashivratri,Mahashivratri,ORG,0.35,0.0,en,1.0
-MAGA,MAGA,ORG,0.4,0.0,en,1.0
 Elon Musk Says,Elon Musk Says,ORG,-0.4,0.0,en,1.0
 ADHD,ADHD,ORG,0.22499999999999998,0.0,en,1.0
 GPs,GPs,ORG,0.22499999999999998,0.0,en,1.0
 Cisco CEO,Cisco CEO,ORG,0.0,0.0,en,1.0
 Hellcat,Hellcat,ORG,-0.17835497835497835,0.0,en,1.0
 Parliament,Parliament,ORG,0.0,0.0,en,1.0
-Govt,Govt,ORG,0.0,0.0,en,1.0
 IMF,IMF,ORG,0.15000000000000002,0.0,en,1.0
+Nature,Nature,ORG,0.0,0.0,en,1.0
 D,D,ORG,-0.2,0.0,en,1.0
+MAGA,MAGA,ORG,0.4,0.0,en,1.0
 Supreme Court,Supreme Court,ORG,0.0,0.0,en,1.0
-Elon,Elon,ORG,0.4,0.0,en,1.0
 the World Economic Forum,the World Economic Forum,ORG,0.10000000000000002,0.0,en,1.0
 Deutsche Bank,Deutsche Bank,ORG,0.10000000000000002,0.0,en,1.0
 Tokyo Big Sight,Tokyo Big Sight,ORG,0.18000000000000002,0.0,en,1.0
 the Hennepin County Government Center,the Hennepin County Government Center,ORG,-0.1,0.0,en,1.0
 MINNEAPOLISUnions,MINNEAPOLISUnions,ORG,-0.1,0.0,en,1.0
 Unions and Community Groups Call for Minnesota Shutdown,Unions and Community Groups Call for Minnesota Shutdown,ORG,-0.8,0.0,en,1.0
-Nature,Nature,ORG,0.0,0.0,en,1.0
-Ofcom,Ofcom,ORG,0.6,0.0,en,1.0
-Elon Musk's,Elon Musk's,ORG,-0.07142857142857142,0.0,en,1.0
-Democratic Party’s Corollary,Democratic Party’s Corollary,ORG,0.0,0.0,en,1.0
+acco,acco,ORG,-0.09722222222222221,0.0,en,1.0
