@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tsunami',en,Hazard,#ff0000,#ff0000,3,0.102795038292057
-'tsunami warning',en,Mitigation,#00ff00,#00ff00,3,0.0568563253341031
+'tsunami warning',en,Mitigation,#00ff00,#00ff00,3,0.09237918153398764
 'tsunami warning system',en,Adaptation,#0000ff,#0000ff,2,0.0521303927427039
-'tsunami deaths',en,Impacts,#ffff00,#ffff00,1,0.022847391564471128
+'tsunami deaths',en,Impacts,#ffff00,#ffff00,1,0.0228473915644711
 'tsunami damages',en,Impacts,#ffff00,#ffff00,1,0.0157259066656747
 'seaquake',en,Causes,#00ffff,#00ffff,1,1.044003863087699e-06
