@@ -53,57 +53,57 @@ late Monday,late Monday,DATE,,,en,8.4
 hundreds,hundreds,CARDINAL,,,en,7.800000000000001
 last year,last year,DATE,,,en,7.600000000000001
 Indonesian,Indonesian,NORP,,,en,7.5
-French,French,NORP,,,en,7.300000000000001
 "March 11, 2011","March 11, 2011",DATE,,,en,7.300000000000001
+French,French,NORP,,,en,7.300000000000001
 years,years,DATE,,,en,7.3
 Tsunami,Tsunami,NORP,,,en,7.200000000000001
 four,four,CARDINAL,,,en,7.0
 Yukon,Yukon,FAC,,,en,6.800000000000001
 this year,this year,DATE,,,en,6.800000000000001
+7,7,CARDINAL,,,en,6.7
 Japans,Japans,NORP,0.14469320066334992,0.3971807628524046,en,6.7
 8.0,8.0,CARDINAL,,,en,6.7
-7,7,CARDINAL,,,en,6.7
-Alaskan,Alaskan,NORP,,,en,6.4
-This week,This week,DATE,,,en,6.4
-8.2,8.2,CARDINAL,,,en,6.4
-November,November,DATE,,,en,6.4
-up to 10 feet,up to 10 feet,QUANTITY,,,en,6.4
-late Tuesday,late Tuesday,TIME,,,en,6.4
 September 2023,September 2023,DATE,,,en,6.4
-early Thursday,early Thursday,DATE,,,en,6.4
-nine days,nine days,DATE,,,en,6.4
-Russian,Russian,NORP,,,en,6.4
+8.2,8.2,CARDINAL,,,en,6.4
+Alaskan,Alaskan,NORP,,,en,6.4
 Democratic,Democratic,NORP,,,en,6.4
+nine days,nine days,DATE,,,en,6.4
+early Thursday,early Thursday,DATE,,,en,6.4
+late Tuesday,late Tuesday,TIME,,,en,6.4
+Russian,Russian,NORP,,,en,6.4
+up to 10 feet,up to 10 feet,QUANTITY,,,en,6.4
+November,November,DATE,,,en,6.4
+This week,This week,DATE,,,en,6.4
 2022,2022,DATE,,,en,6.1000000000000005
 Dozens,Dozens,CARDINAL,,,en,6.000000000000001
 5,5,CARDINAL,,,en,5.900000000000001
 days,days,DATE,,,en,5.800000000000001
 countrys,countrys,NORP,,,en,5.800000000000001
-Dec 12,Dec 12,DATE,,,en,5.5
-Season 1,Season 1,DATE,,,en,5.5
-Canadian,Canadian,NORP,,,en,5.5
 at least 32,at least 32,CARDINAL,,,en,5.5
+Canadian,Canadian,NORP,,,en,5.5
 23,23,CARDINAL,,,en,5.5
 at least 30,at least 30,CARDINAL,,,en,5.5
+Season 1,Season 1,DATE,,,en,5.5
 magnitude-7.0,magnitude-7.0,PRODUCT,,,en,5.5
 200,200,CARDINAL,,,en,5.5
 up to three metres,up to three metres,QUANTITY,,,en,5.5
 the weekend,the weekend,DATE,,,en,5.4
+Dec 12,Dec 12,DATE,,,en,5.3
 "20,000","20,000",CARDINAL,,,en,5.3
 March 2011,March 2011,DATE,,,en,4.999999999999999
 Three,Three,CARDINAL,,,en,4.9
 One,One,CARDINAL,,,en,4.8999999999999995
 five,five,CARDINAL,,,en,4.8999999999999995
 a week,a week,DATE,,,en,4.8999999999999995
+early Saturday,early Saturday,DATE,,,en,4.6
+up to one meter,up to one meter,QUANTITY,,,en,4.6
+two years,two years,DATE,,,en,4.6
+10km,10km,QUANTITY,,,en,4.6
+night,night,TIME,,,en,4.6
 up to 3 meters,up to 3 meters,QUANTITY,,,en,4.6
 at least 47,at least 47,CARDINAL,,,en,4.6
-night,night,TIME,,,en,4.6
-early Saturday,early Saturday,DATE,,,en,4.6
-two years,two years,DATE,,,en,4.6
-15th,15th,ORDINAL,,,en,4.6
-10km,10km,QUANTITY,,,en,4.6
 Americans,Americans,NORP,,,en,4.6
-up to one meter,up to one meter,QUANTITY,,,en,4.6
+15th,15th,ORDINAL,,,en,4.6
 Mexican,Mexican,NORP,,,en,4.6
 "August 10, 2025","August 10, 2025",DATE,,,en,4.3999999999999995
 2,2,CARDINAL,,,en,4.3999999999999995
@@ -113,66 +113,66 @@ Indian,Indian,NORP,,,en,4.3
 Asian,Asian,NORP,,,en,3.9999999999999996
 Thousands,Thousands,CARDINAL,,,en,3.9999999999999996
 Greek,Greek,NORP,,,en,3.8999999999999995
-as high as three metres,as high as three metres,QUANTITY,,,en,3.6999999999999997
-"The Meteorology, Climatology","The Meteorology, Climatology",WORK_OF_ART,,,en,3.6999999999999997
-around 80 kilometers,around 80 kilometers,QUANTITY,,,en,3.6999999999999997
+3.8,3.8,CARDINAL,,,en,3.6999999999999997
 November 9th,November 9th,DATE,,,en,3.6999999999999997
-2009,2009,DATE,,,en,3.6999999999999997
+5.5,5.5,CARDINAL,,,en,3.6999999999999997
+around 80 kilometers,around 80 kilometers,QUANTITY,,,en,3.6999999999999997
+"The Meteorology, Climatology","The Meteorology, Climatology",WORK_OF_ART,,,en,3.6999999999999997
+6.1,6.1,CARDINAL,,,en,3.6999999999999997
+as high as three metres,as high as three metres,QUANTITY,,,en,3.6999999999999997
 21 years,21 years,DATE,,,en,3.6999999999999997
 "about 90,000","about 90,000",CARDINAL,,,en,3.6999999999999997
-magnitude-7.6,magnitude-7.6,FAC,,,en,3.6999999999999997
-"72,000","72,000",CARDINAL,,,en,3.6999999999999997
-North Africans,North Africans,NORP,,,en,3.6999999999999997
-just days,just days,DATE,,,en,3.6999999999999997
-Spanish,Spanish,NORP,,,en,3.6999999999999997
-Moroccan,Moroccan,NORP,,,en,3.6999999999999997
-as high as 3 metres,as high as 3 metres,QUANTITY,,,en,3.6999999999999997
-3.8,3.8,CARDINAL,,,en,3.6999999999999997
-5.5,5.5,CARDINAL,,,en,3.6999999999999997
+2009,2009,DATE,,,en,3.6999999999999997
+Second,Second,ORDINAL,,,en,3.6999999999999997
+40,40,CARDINAL,,,en,3.6999999999999997
+the Pacific Ring of Fire,the Pacific Ring of Fire,FAC,,,en,3.6999999999999997
+"February 9, 2026","February 9, 2026",DATE,,,en,3.6999999999999997
 70 centimeters,70 centimeters,QUANTITY,,,en,3.6999999999999997
-11:15 p.m.,11:15 p.m.,TIME,,,en,3.6999999999999997
 "News On Japan) -
  ","News On Japan) -
  ",WORK_OF_ART,,,en,3.6999999999999997
-Second,Second,ORDINAL,,,en,3.6999999999999997
-6.1,6.1,CARDINAL,,,en,3.6999999999999997
+as high as 3 metres,as high as 3 metres,QUANTITY,,,en,3.6999999999999997
+Moroccan,Moroccan,NORP,,,en,3.6999999999999997
 every 90 seconds,every 90 seconds,TIME,,,en,3.6999999999999997
+Spanish,Spanish,NORP,,,en,3.6999999999999997
 months,months,DATE,,,en,3.6999999999999997
+just days,just days,DATE,,,en,3.6999999999999997
+magnitude-7.6,magnitude-7.6,FAC,,,en,3.6999999999999997
+North Africans,North Africans,NORP,,,en,3.6999999999999997
+"72,000","72,000",CARDINAL,,,en,3.6999999999999997
+11:15 p.m.,11:15 p.m.,TIME,,,en,3.6999999999999997
 50 kilometers,50 kilometers,QUANTITY,,,en,3.6999999999999997
 2020,2020,DATE,,,en,3.6999999999999997
-"February 9, 2026","February 9, 2026",DATE,,,en,3.6999999999999997
-40,40,CARDINAL,,,en,3.6999999999999997
-the Pacific Ring of Fire,the Pacific Ring of Fire,FAC,,,en,3.6999999999999997
 hours,hours,TIME,,,en,3.6999999999999993
 6.8,6.8,CARDINAL,,,en,3.5999999999999996
 the day,the day,DATE,,,en,3.5
 six minutes,six minutes,TIME,,,en,3.5
-eight,eight,CARDINAL,,,en,3.4999999999999996
 week,week,DATE,,,en,3.4999999999999996
-10,10,CARDINAL,,,en,3.4999999999999996
 Flores,Flores,NORP,0.19642857142857145,0.7142857142857143,en,3.4999999999999996
+10,10,CARDINAL,,,en,3.4999999999999996
+eight,eight,CARDINAL,,,en,3.4999999999999996
 6.4,6.4,CARDINAL,,,en,3.4
-7.0,7.0,CARDINAL,,,en,3.3999999999999995
 3,3,MONEY,,,en,3.3999999999999995
+7.0,7.0,CARDINAL,,,en,3.3999999999999995
 247,247,CARDINAL,,,en,3.3
-12,12,CARDINAL,,,en,3.3
 Iranian,Iranian,NORP,,,en,3.3
 251,251,CARDINAL,,,en,3.3
+12,12,CARDINAL,,,en,3.3
 German,German,NORP,,,en,3.3
 July 2026,July 2026,DATE,,,en,3.1
-British,British,NORP,,,en,3.1
 At least 15,At least 15,CARDINAL,,,en,3.1
+British,British,NORP,,,en,3.1
+9,9,CARDINAL,,,en,3.0999999999999996
 the Great Recession,the Great Recession,EVENT,,,en,3.0999999999999996
 more than 200,more than 200,CARDINAL,,,en,3.0999999999999996
-9,9,CARDINAL,,,en,3.0999999999999996
 July 28,July 28,DATE,,,en,3.0
 Hundreds,Hundreds,CARDINAL,,,en,3.0
-5.9,5.9,CARDINAL,,,en,2.8
 10ft,10ft,QUANTITY,,,en,2.8
 50 miles,50 miles,QUANTITY,,,en,2.8
+5.9,5.9,CARDINAL,,,en,2.8
+late-evening,late-evening,TIME,,,en,2.8
 about 11:15 p.m.,about 11:15 p.m.,TIME,,,en,2.8
 at least 40,at least 40,CARDINAL,,,en,2.8
-late-evening,late-evening,TIME,,,en,2.8
 Apr 27,Apr 27,DATE,,,en,2.8
 July 30,July 30,DATE,,,en,2.8
 +12 chars,+12 chars,WORK_OF_ART,,,en,2.8
@@ -205,107 +205,81 @@ at least 50,at least 50,CARDINAL,,,en,2.8
 hour,hour,TIME,,,en,2.8
 2.5 feet,2.5 feet,QUANTITY,,,en,2.8
 "71,321","71,321",CARDINAL,,,en,2.8
-5.4,5.4,CARDINAL,,,en,2.8
-at least five,at least five,CARDINAL,,,en,2.8
-Chinese,Chinese,NORP,,,en,2.8
-late July,late July,DATE,,,en,2.8
-"July 29, 2025","July 29, 2025",DATE,,,en,2.8
+Poseidon,Poseidon,PRODUCT,,,en,2.8
 8.8,8.8,CARDINAL,,,en,2.8
 |,|,DATE,,,en,2.8
-Poseidon,Poseidon,PRODUCT,,,en,2.8
+Chinese,Chinese,NORP,,,en,2.8
+late July,late July,DATE,,,en,2.8
+at least five,at least five,CARDINAL,,,en,2.8
+"July 29, 2025","July 29, 2025",DATE,,,en,2.8
+5.4,5.4,CARDINAL,,,en,2.8
 millions,millions,CARDINAL,,,en,2.7
-fourth,fourth,ORDINAL,,,en,2.6
 50,50,CARDINAL,,,en,2.6
-202,202,CARDINAL,,,en,2.5999999999999996
+fourth,fourth,ORDINAL,,,en,2.6
 7.6-Magnitude,7.6-Magnitude,CARDINAL,,,en,2.5999999999999996
-a few days,a few days,DATE,,,en,2.5999999999999996
 Nine,Nine,CARDINAL,,,en,2.5999999999999996
+202,202,CARDINAL,,,en,2.5999999999999996
+a few days,a few days,DATE,,,en,2.5999999999999996
 Last year,Last year,DATE,,,en,2.5
 Hammerbombs,Hammerbombs,NORP,,,en,2.4
-Yesterday,Yesterday,DATE,,,en,2.4
-28,28,CARDINAL,,,en,2.4
-the Political Tsunami,the Political Tsunami,EVENT,,,en,2.4
-35,35,CARDINAL,,,en,2.4
 April,April,DATE,,,en,2.4
+the Political Tsunami,the Political Tsunami,EVENT,,,en,2.4
+28,28,CARDINAL,,,en,2.4
+Yesterday,Yesterday,DATE,,,en,2.4
+35,35,CARDINAL,,,en,2.4
 January,January,DATE,,,en,2.3
-Linux,Linux,PRODUCT,,,en,2.2
-Indonesia&rsquo;s,Indonesia&rsquo;s,CARDINAL,,,en,2.2
 30,30,CARDINAL,,,en,2.2
+Indonesia&rsquo;s,Indonesia&rsquo;s,CARDINAL,,,en,2.2
 overnight,overnight,TIME,,,en,2.2
-15,15,CARDINAL,,,en,2.1999999999999997
-last week,last week,DATE,,,en,2.1999999999999997
+Linux,Linux,PRODUCT,,,en,2.2
 less than a week,less than a week,DATE,,,en,2.1999999999999997
+15,15,CARDINAL,,,en,2.1999999999999997
 22,22,CARDINAL,,,en,2.1999999999999997
 "more than 20,000","more than 20,000",CARDINAL,,,en,2.1999999999999997
+last week,last week,DATE,,,en,2.1999999999999997
 1986,1986,DATE,,,en,2.1999999999999997
 8,8,CARDINAL,,,en,2.0
-Monster Hunter Showcase,Monster Hunter Showcase,FAC,,,en,1.9000000000000001
 February,February,DATE,,,en,1.9000000000000001
+Monster Hunter Showcase,Monster Hunter Showcase,FAC,,,en,1.9000000000000001
+Fukushima Nuclear Plant,Fukushima Nuclear Plant,FAC,,,en,1.9
+05,05,CARDINAL,,,en,1.9
+About a third,About a third,CARDINAL,,,en,1.9
+nearly half,nearly half,CARDINAL,,,en,1.9
+"July 28, 2026","July 28, 2026",DATE,,,en,1.9
 $29 billion,$29 billion,MONEY,,,en,1.9
-"790,000","790,000",CARDINAL,,,en,1.9
-21st,21st,ORDINAL,,,en,1.9
-at least 19,at least 19,CARDINAL,,,en,1.9
+Eucharistic,Eucharistic,WORK_OF_ART,,,en,1.9
+late 2025,late 2025,DATE,,,en,1.9
+six,six,CARDINAL,,,en,1.9
+seconds,seconds,TIME,,,en,1.9
+more than 1 million,more than 1 million,CARDINAL,,,en,1.9
+eight-acre,eight-acre,QUANTITY,,,en,1.9
+between 25 and 35 years,between 25 and 35 years,DATE,,,en,1.9
+"150,000","150,000",CARDINAL,,,en,1.9
+the Kashiwazaki-Kariwa Nuclear Power Station,the Kashiwazaki-Kariwa Nuclear Power Station,FAC,,,en,1.9
 two seismometers 8000 feet,two seismometers 8000 feet,QUANTITY,,,en,1.9
+Monday afternoon,Monday afternoon,TIME,,,en,1.9
+| August 10,| August 10,DATE,,,en,1.9
+recent years,recent years,DATE,,,en,1.9
+at least 19,at least 19,CARDINAL,,,en,1.9
+three metres,three metres,QUANTITY,,,en,1.9
+about 50 kilometers,about 50 kilometers,QUANTITY,,,en,1.9
 just 40,just 40,CARDINAL,,,en,1.9
 the past decade,the past decade,DATE,,,en,1.9
 April 27,April 27,DATE,,,en,1.9
-V4 Flash,V4 Flash,PRODUCT,,,en,1.9
-| August 10,| August 10,DATE,,,en,1.9
 1919,1919,DATE,,,en,1.9
 March 9,March 9,DATE,,,en,1.9
 Columbia Memorial,Columbia Memorial,FAC,,,en,1.9
 5.0,5.0,CARDINAL,,,en,1.9
-eight-acre,eight-acre,QUANTITY,,,en,1.9
-Iwate,Iwate,FAC,0.030648769574944064,0.07897091722595076,en,1.9
-2028,2028,DATE,,,en,1.9
+"790,000","790,000",CARDINAL,,,en,1.9
 10:06 a.m.,10:06 a.m.,TIME,,,en,1.9
-nearly half,nearly half,CARDINAL,,,en,1.9
-About a third,About a third,CARDINAL,,,en,1.9
-Apr 20,Apr 20,DATE,,,en,1.9
-more than 1 million,more than 1 million,CARDINAL,,,en,1.9
-the Negombo Prison,the Negombo Prison,FAC,,,en,1.9
-seconds,seconds,TIME,,,en,1.9
-six,six,CARDINAL,,,en,1.9
-Fukushima Nuclear Plant,Fukushima Nuclear Plant,FAC,,,en,1.9
 zero,zero,CARDINAL,,,en,1.9
-Eucharistic,Eucharistic,WORK_OF_ART,,,en,1.9
-the Kashiwazaki-Kariwa Nuclear Power Station,the Kashiwazaki-Kariwa Nuclear Power Station,FAC,,,en,1.9
-The Week,The Week,DATE,,,en,1.9
-earliest days,earliest days,DATE,,,en,1.9
-at least three,at least three,CARDINAL,,,en,1.9
-Meet the Press,Meet the Press,WORK_OF_ART,,,en,1.9
-late 2025,late 2025,DATE,,,en,1.9
-winter,winter,DATE,,,en,1.9
-the second quarter,the second quarter,DATE,,,en,1.9
-Jan 16,Jan 16,DATE,,,en,1.9
-18 centimeters,18 centimeters,QUANTITY,,,en,1.9
-4:27 pm,4:27 pm,TIME,,,en,1.9
-around 10:18 a.m.,around 10:18 a.m.,TIME,,,en,1.9
-January 6th,January 6th,DATE,,,en,1.9
-seven,seven,CARDINAL,,,en,1.9
-last night's,last night's,TIME,,,en,1.9
-8:38 a.m.,8:38 a.m.,TIME,,,en,1.9
+2028,2028,DATE,,,en,1.9
+the Negombo Prison,the Negombo Prison,FAC,,,en,1.9
 June 8th,June 8th,DATE,,,en,1.9
-"150,000","150,000",CARDINAL,,,en,1.9
-between 25 and 35 years,between 25 and 35 years,DATE,,,en,1.9
-"July 28, 2026","July 28, 2026",DATE,,,en,1.9
-05,05,CARDINAL,,,en,1.9
-Monday afternoon,Monday afternoon,TIME,,,en,1.9
-about 50 kilometers,about 50 kilometers,QUANTITY,,,en,1.9
-three metres,three metres,QUANTITY,,,en,1.9
-50th,50th,ORDINAL,,,en,1.9
-6.21 miles,6.21 miles,QUANTITY,,,en,1.9
-a bad night,a bad night,TIME,,,en,1.9
-up to 3 metres,up to 3 metres,QUANTITY,,,en,1.9
-65,65,CARDINAL,,,en,1.9
-1607,1607,DATE,,,en,1.9
-10 km,10 km,QUANTITY,,,en,1.9
-31 kilometres,31 kilometres,QUANTITY,,,en,1.9
-2026The,2026The,CARDINAL,,,en,1.9
-1 meter,1 meter,QUANTITY,,,en,1.9
-2-100 megaton,2-100 megaton,QUANTITY,,,en,1.9
-last Friday,last Friday,DATE,,,en,1.9
-Oct. 28,Oct. 28,DATE,,,en,1.9
+seven,seven,CARDINAL,,,en,1.9
+8:38 a.m.,8:38 a.m.,TIME,,,en,1.9
+V4 Flash,V4 Flash,PRODUCT,,,en,1.9
+Jan 16,Jan 16,DATE,,,en,1.9
 15 years ago,15 years ago,DATE,,,en,1.9
 Years Eve,Years Eve,DATE,,,en,1.9
 The MacBook Neo,The MacBook Neo,PRODUCT,,,en,1.9
@@ -316,9 +290,35 @@ the 2026 World Cup,the 2026 World Cup,EVENT,,,en,1.9
 9.84 ft,9.84 ft,QUANTITY,,,en,1.9
 Jan 1,Jan 1,DATE,,,en,1.9
 $1 trillion,$1 trillion,MONEY,,,en,1.9
-recent years,recent years,DATE,,,en,1.9
-late last year,late last year,DATE,,,en,1.9
+the second quarter,the second quarter,DATE,,,en,1.9
+up to 3 metres,up to 3 metres,QUANTITY,,,en,1.9
+winter,winter,DATE,,,en,1.9
+a bad night,a bad night,TIME,,,en,1.9
+6.21 miles,6.21 miles,QUANTITY,,,en,1.9
+50th,50th,ORDINAL,,,en,1.9
+Oct. 28,Oct. 28,DATE,,,en,1.9
+last Friday,last Friday,DATE,,,en,1.9
+2-100 megaton,2-100 megaton,QUANTITY,,,en,1.9
+around 10:18 a.m.,around 10:18 a.m.,TIME,,,en,1.9
+Meet the Press,Meet the Press,WORK_OF_ART,,,en,1.9
+at least three,at least three,CARDINAL,,,en,1.9
+21st,21st,ORDINAL,,,en,1.9
+Iwate,Iwate,FAC,0.030648769574944064,0.07897091722595076,en,1.9
+earliest days,earliest days,DATE,,,en,1.9
+January 6th,January 6th,DATE,,,en,1.9
+last night's,last night's,TIME,,,en,1.9
+4:27 pm,4:27 pm,TIME,,,en,1.9
+1 meter,1 meter,QUANTITY,,,en,1.9
+65,65,CARDINAL,,,en,1.9
+1607,1607,DATE,,,en,1.9
+18 centimeters,18 centimeters,QUANTITY,,,en,1.9
+10 km,10 km,QUANTITY,,,en,1.9
+31 kilometres,31 kilometres,QUANTITY,,,en,1.9
 about 100,about 100,CARDINAL,,,en,1.9
+2026The,2026The,CARDINAL,,,en,1.9
+The Week,The Week,DATE,,,en,1.9
+late last year,late last year,DATE,,,en,1.9
+6.7-Magnitude,6.7-Magnitude,CARDINAL,,,en,1.9
 summer 2025,summer 2025,DATE,,,en,1.9
 5.8,5.8,CARDINAL,,,en,1.9
 early Sunday (March 29,early Sunday (March 29,DATE,,,en,1.9
@@ -339,7 +339,7 @@ March 11 2011,March 11 2011,DATE,,,en,1.9
 millions of tonnes,millions of tonnes,QUANTITY,,,en,1.9
 64 million cubic meters,64 million cubic meters,QUANTITY,,,en,1.9
 August,August,DATE,,,en,1.9
-6.7-Magnitude,6.7-Magnitude,CARDINAL,,,en,1.9
+"Friday, days","Friday, days",DATE,,,en,1.9
 The week,The week,DATE,,,en,1.9
 28 inches,28 inches,QUANTITY,,,en,1.9
 1578 feet,1578 feet,QUANTITY,,,en,1.9
@@ -368,19 +368,20 @@ up to 40 centimeters,up to 40 centimeters,QUANTITY,,,en,1.9
 10 feet,10 feet,QUANTITY,,,en,1.9
 December 8th,December 8th,DATE,,,en,1.9
 last summer,last summer,DATE,,,en,1.9
-7:30 a.m.,7:30 a.m.,TIME,,,en,1.9
-68 kilometers,68 kilometers,QUANTITY,,,en,1.9
 Silverpit Crater,Silverpit Crater,FAC,,,en,1.9
+10 kilometers,10 kilometers,QUANTITY,,,en,1.9
+67 miles,67 miles,QUANTITY,,,en,1.9
 the last few days,the last few days,DATE,,,en,1.9
+7:30 a.m.,7:30 a.m.,TIME,,,en,1.9
 thousands of years,thousands of years,DATE,,,en,1.9
 around one million,around one million,CARDINAL,,,en,1.9
 10:48am,10:48am,CARDINAL,,,en,1.9
 First,First,ORDINAL,,,en,1.9
 March,March,DATE,,,en,1.9
-10 kilometers,10 kilometers,QUANTITY,,,en,1.9
 monthly,monthly,DATE,,,en,1.9
+68 kilometers,68 kilometers,QUANTITY,,,en,1.9
+Malaysian,Malaysian,NORP,,,en,1.9
 one-metre,one-metre,QUANTITY,,,en,1.9
-Wednesday marked 15 years,Wednesday marked 15 years,DATE,,,en,1.9
 three-year-old,three-year-old,DATE,,,en,1.9
 Jewish,Jewish,NORP,,,en,1.9
 Jap,Jap,LANGUAGE,,,en,1.9
@@ -389,38 +390,37 @@ up to 1 metre,up to 1 metre,QUANTITY,,,en,1.9
 December 12th,December 12th,DATE,,,en,1.9
 around 11:44 a.m.,around 11:44 a.m.,TIME,,,en,1.9
 around 4:27 p.m.,around 4:27 p.m.,TIME,,,en,1.9
-"Friday, days","Friday, days",DATE,,,en,1.9
-67 miles,67 miles,QUANTITY,,,en,1.9
+Wednesday marked 15 years,Wednesday marked 15 years,DATE,,,en,1.9
 this morning,this morning,TIME,,,en,1.9
 early Sunday,early Sunday,DATE,,,en,1.9
-Malaysian,Malaysian,NORP,,,en,1.9
+magnitude-6.0,magnitude-6.0,NORP,,,en,1.9
 Nov 9,Nov 9,DATE,,,en,1.9
-Molucca,Molucca,NORP,,,en,1.9
 34,34,CARDINAL,,,en,1.9
-Days,Days,DATE,,,en,1.9
 2040,2040,DATE,,,en,1.9
+Days,Days,DATE,,,en,1.9
 "more than 22,000","more than 22,000",CARDINAL,,,en,1.9
 9.0,9.0,CARDINAL,,,en,1.9
-the late afternoon,the late afternoon,TIME,,,en,1.9
 481 metres,481 metres,QUANTITY,,,en,1.9
+the late afternoon,the late afternoon,TIME,,,en,1.9
++1696,+1696,NORP,,,en,1.9
 "1,578","1,578",CARDINAL,,,en,1.9
 1.5,1.5,CARDINAL,,,en,1.9
 Saudi,Saudi,NORP,,,en,1.9
-+1696,+1696,NORP,,,en,1.9
-magnitude-6.0,magnitude-6.0,NORP,,,en,1.9
+Molucca,Molucca,NORP,,,en,1.9
 3 hours,3 hours,TIME,,,en,1.8
 Filipinos,Filipinos,NORP,,,en,1.8
 daily,daily,DATE,,,en,1.7000000000000002
+Awakened,Awakened,WORK_OF_ART,,,en,1.7
 480,480,CARDINAL,,,en,1.7
 At least three,At least three,CARDINAL,,,en,1.7
-Awakened,Awakened,WORK_OF_ART,,,en,1.7
-Tsunami Cake,Tsunami Cake,EVENT,,,en,1.7
 eighth,eighth,ORDINAL,,,en,1.7
 246,246,CARDINAL,,,en,1.7
+Tsunami Cake,Tsunami Cake,EVENT,,,en,1.7
+the decade,the decade,DATE,,,en,1.7
 Mad Money,Mad Money,WORK_OF_ART,,,en,1.7
 the Industrial Revolution,the Industrial Revolution,EVENT,,,en,1.7
 Tsunami Sunrise,Tsunami Sunrise,WORK_OF_ART,,,en,1.7
-the decade,the decade,DATE,,,en,1.7
+Apr 20,Apr 20,DATE,,,en,1.7
 40 kilometres,40 kilometres,QUANTITY,,,en,1.7
 The Tariff Tsunami:,The Tariff Tsunami:,WORK_OF_ART,,,en,1.7
 Persimmon,Persimmon,PRODUCT,,,en,1.7
@@ -639,9 +639,9 @@ Ayodhya,Ayodhya,NORP,,,en,1.0
 Parliamen,Parliamen,LANGUAGE,,,en,1.0
 the middle of the night,the middle of the night,TIME,,,en,1.0
 Aug 15,Aug 15,DATE,,,en,1.0
-at least two,at least two,CARDINAL,,,en,1.0
 At least 47,At least 47,CARDINAL,,,en,1.0
 Sora 2,Sora 2,WORK_OF_ART,,,en,1.0
+at least two,at least two,CARDINAL,,,en,1.0
 Pacific Ring of Fire,Pacific Ring of Fire,FAC,,,en,1.0
 E Nusa Tenggara,E Nusa Tenggara,PRODUCT,,,en,1.0
 three hours,three hours,TIME,,,en,1.0
@@ -1051,10 +1051,10 @@ M6.7,M6.7,MONEY,,,en,1.0
 Christmas,Christmas,DATE,,,en,1.0
 the year,the year,DATE,,,en,1.0
 "153,074","153,074",CARDINAL,,,en,1.0
-20km,20km,QUANTITY,,,en,1.0
 October,October,DATE,,,en,1.0
 11.44am,11.44am,CARDINAL,,,en,1.0
 10.44am,10.44am,CARDINAL,,,en,1.0
+20km,20km,QUANTITY,,,en,1.0
 December 12,December 12,DATE,,,en,1.0
 2025-12-12,2025-12-12,DATE,,,en,1.0
 11:44 a.m.,11:44 a.m.,TIME,,,en,1.0
