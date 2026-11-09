@@ -53,57 +53,57 @@ late Monday,late Monday,DATE,,,en,8.4
 hundreds,hundreds,CARDINAL,,,en,7.800000000000001
 last year,last year,DATE,,,en,7.600000000000001
 Indonesian,Indonesian,NORP,,,en,7.5
-"March 11, 2011","March 11, 2011",DATE,,,en,7.300000000000001
 French,French,NORP,,,en,7.300000000000001
+"March 11, 2011","March 11, 2011",DATE,,,en,7.300000000000001
 years,years,DATE,,,en,7.3
 Tsunami,Tsunami,NORP,,,en,7.200000000000001
 four,four,CARDINAL,,,en,7.0
 Yukon,Yukon,FAC,,,en,6.800000000000001
 this year,this year,DATE,,,en,6.800000000000001
-7,7,CARDINAL,,,en,6.7
 Japans,Japans,NORP,0.14469320066334992,0.3971807628524046,en,6.7
 8.0,8.0,CARDINAL,,,en,6.7
-September 2023,September 2023,DATE,,,en,6.4
-8.2,8.2,CARDINAL,,,en,6.4
+7,7,CARDINAL,,,en,6.7
 Alaskan,Alaskan,NORP,,,en,6.4
-Democratic,Democratic,NORP,,,en,6.4
-nine days,nine days,DATE,,,en,6.4
-early Thursday,early Thursday,DATE,,,en,6.4
-late Tuesday,late Tuesday,TIME,,,en,6.4
-Russian,Russian,NORP,,,en,6.4
-up to 10 feet,up to 10 feet,QUANTITY,,,en,6.4
-November,November,DATE,,,en,6.4
 This week,This week,DATE,,,en,6.4
+8.2,8.2,CARDINAL,,,en,6.4
+November,November,DATE,,,en,6.4
+up to 10 feet,up to 10 feet,QUANTITY,,,en,6.4
+late Tuesday,late Tuesday,TIME,,,en,6.4
+September 2023,September 2023,DATE,,,en,6.4
+early Thursday,early Thursday,DATE,,,en,6.4
+nine days,nine days,DATE,,,en,6.4
+Russian,Russian,NORP,,,en,6.4
+Democratic,Democratic,NORP,,,en,6.4
 2022,2022,DATE,,,en,6.1000000000000005
 Dozens,Dozens,CARDINAL,,,en,6.000000000000001
 5,5,CARDINAL,,,en,5.900000000000001
 days,days,DATE,,,en,5.800000000000001
 countrys,countrys,NORP,,,en,5.800000000000001
-at least 32,at least 32,CARDINAL,,,en,5.5
+Dec 12,Dec 12,DATE,,,en,5.5
+Season 1,Season 1,DATE,,,en,5.5
 Canadian,Canadian,NORP,,,en,5.5
+at least 32,at least 32,CARDINAL,,,en,5.5
 23,23,CARDINAL,,,en,5.5
 at least 30,at least 30,CARDINAL,,,en,5.5
-Season 1,Season 1,DATE,,,en,5.5
 magnitude-7.0,magnitude-7.0,PRODUCT,,,en,5.5
 200,200,CARDINAL,,,en,5.5
 up to three metres,up to three metres,QUANTITY,,,en,5.5
 the weekend,the weekend,DATE,,,en,5.4
-Dec 12,Dec 12,DATE,,,en,5.3
 "20,000","20,000",CARDINAL,,,en,5.3
 March 2011,March 2011,DATE,,,en,4.999999999999999
 Three,Three,CARDINAL,,,en,4.9
 One,One,CARDINAL,,,en,4.8999999999999995
 five,five,CARDINAL,,,en,4.8999999999999995
 a week,a week,DATE,,,en,4.8999999999999995
-early Saturday,early Saturday,DATE,,,en,4.6
-up to one meter,up to one meter,QUANTITY,,,en,4.6
-two years,two years,DATE,,,en,4.6
-10km,10km,QUANTITY,,,en,4.6
-night,night,TIME,,,en,4.6
 up to 3 meters,up to 3 meters,QUANTITY,,,en,4.6
 at least 47,at least 47,CARDINAL,,,en,4.6
-Americans,Americans,NORP,,,en,4.6
+night,night,TIME,,,en,4.6
+early Saturday,early Saturday,DATE,,,en,4.6
+two years,two years,DATE,,,en,4.6
 15th,15th,ORDINAL,,,en,4.6
+10km,10km,QUANTITY,,,en,4.6
+Americans,Americans,NORP,,,en,4.6
+up to one meter,up to one meter,QUANTITY,,,en,4.6
 Mexican,Mexican,NORP,,,en,4.6
 "August 10, 2025","August 10, 2025",DATE,,,en,4.3999999999999995
 2,2,CARDINAL,,,en,4.3999999999999995
@@ -113,66 +113,66 @@ Indian,Indian,NORP,,,en,4.3
 Asian,Asian,NORP,,,en,3.9999999999999996
 Thousands,Thousands,CARDINAL,,,en,3.9999999999999996
 Greek,Greek,NORP,,,en,3.8999999999999995
-3.8,3.8,CARDINAL,,,en,3.6999999999999997
-November 9th,November 9th,DATE,,,en,3.6999999999999997
-5.5,5.5,CARDINAL,,,en,3.6999999999999997
-around 80 kilometers,around 80 kilometers,QUANTITY,,,en,3.6999999999999997
-"The Meteorology, Climatology","The Meteorology, Climatology",WORK_OF_ART,,,en,3.6999999999999997
-6.1,6.1,CARDINAL,,,en,3.6999999999999997
 as high as three metres,as high as three metres,QUANTITY,,,en,3.6999999999999997
+"The Meteorology, Climatology","The Meteorology, Climatology",WORK_OF_ART,,,en,3.6999999999999997
+around 80 kilometers,around 80 kilometers,QUANTITY,,,en,3.6999999999999997
+November 9th,November 9th,DATE,,,en,3.6999999999999997
+2009,2009,DATE,,,en,3.6999999999999997
 21 years,21 years,DATE,,,en,3.6999999999999997
 "about 90,000","about 90,000",CARDINAL,,,en,3.6999999999999997
-2009,2009,DATE,,,en,3.6999999999999997
-Second,Second,ORDINAL,,,en,3.6999999999999997
-40,40,CARDINAL,,,en,3.6999999999999997
-the Pacific Ring of Fire,the Pacific Ring of Fire,FAC,,,en,3.6999999999999997
-"February 9, 2026","February 9, 2026",DATE,,,en,3.6999999999999997
+magnitude-7.6,magnitude-7.6,FAC,,,en,3.6999999999999997
+"72,000","72,000",CARDINAL,,,en,3.6999999999999997
+North Africans,North Africans,NORP,,,en,3.6999999999999997
+just days,just days,DATE,,,en,3.6999999999999997
+Spanish,Spanish,NORP,,,en,3.6999999999999997
+Moroccan,Moroccan,NORP,,,en,3.6999999999999997
+as high as 3 metres,as high as 3 metres,QUANTITY,,,en,3.6999999999999997
+3.8,3.8,CARDINAL,,,en,3.6999999999999997
+5.5,5.5,CARDINAL,,,en,3.6999999999999997
 70 centimeters,70 centimeters,QUANTITY,,,en,3.6999999999999997
+11:15 p.m.,11:15 p.m.,TIME,,,en,3.6999999999999997
 "News On Japan) -
  ","News On Japan) -
  ",WORK_OF_ART,,,en,3.6999999999999997
-as high as 3 metres,as high as 3 metres,QUANTITY,,,en,3.6999999999999997
-Moroccan,Moroccan,NORP,,,en,3.6999999999999997
+Second,Second,ORDINAL,,,en,3.6999999999999997
+6.1,6.1,CARDINAL,,,en,3.6999999999999997
 every 90 seconds,every 90 seconds,TIME,,,en,3.6999999999999997
-Spanish,Spanish,NORP,,,en,3.6999999999999997
 months,months,DATE,,,en,3.6999999999999997
-just days,just days,DATE,,,en,3.6999999999999997
-magnitude-7.6,magnitude-7.6,FAC,,,en,3.6999999999999997
-North Africans,North Africans,NORP,,,en,3.6999999999999997
-"72,000","72,000",CARDINAL,,,en,3.6999999999999997
-11:15 p.m.,11:15 p.m.,TIME,,,en,3.6999999999999997
 50 kilometers,50 kilometers,QUANTITY,,,en,3.6999999999999997
 2020,2020,DATE,,,en,3.6999999999999997
+"February 9, 2026","February 9, 2026",DATE,,,en,3.6999999999999997
+40,40,CARDINAL,,,en,3.6999999999999997
+the Pacific Ring of Fire,the Pacific Ring of Fire,FAC,,,en,3.6999999999999997
 hours,hours,TIME,,,en,3.6999999999999993
 6.8,6.8,CARDINAL,,,en,3.5999999999999996
 the day,the day,DATE,,,en,3.5
 six minutes,six minutes,TIME,,,en,3.5
-week,week,DATE,,,en,3.4999999999999996
-Flores,Flores,NORP,0.19642857142857145,0.7142857142857143,en,3.4999999999999996
-10,10,CARDINAL,,,en,3.4999999999999996
 eight,eight,CARDINAL,,,en,3.4999999999999996
+week,week,DATE,,,en,3.4999999999999996
+10,10,CARDINAL,,,en,3.4999999999999996
+Flores,Flores,NORP,0.19642857142857145,0.7142857142857143,en,3.4999999999999996
 6.4,6.4,CARDINAL,,,en,3.4
-3,3,MONEY,,,en,3.3999999999999995
 7.0,7.0,CARDINAL,,,en,3.3999999999999995
+3,3,MONEY,,,en,3.3999999999999995
 247,247,CARDINAL,,,en,3.3
+12,12,CARDINAL,,,en,3.3
 Iranian,Iranian,NORP,,,en,3.3
 251,251,CARDINAL,,,en,3.3
-12,12,CARDINAL,,,en,3.3
 German,German,NORP,,,en,3.3
 July 2026,July 2026,DATE,,,en,3.1
-At least 15,At least 15,CARDINAL,,,en,3.1
 British,British,NORP,,,en,3.1
-9,9,CARDINAL,,,en,3.0999999999999996
+At least 15,At least 15,CARDINAL,,,en,3.1
 the Great Recession,the Great Recession,EVENT,,,en,3.0999999999999996
 more than 200,more than 200,CARDINAL,,,en,3.0999999999999996
+9,9,CARDINAL,,,en,3.0999999999999996
 July 28,July 28,DATE,,,en,3.0
 Hundreds,Hundreds,CARDINAL,,,en,3.0
+5.9,5.9,CARDINAL,,,en,2.8
 10ft,10ft,QUANTITY,,,en,2.8
 50 miles,50 miles,QUANTITY,,,en,2.8
-5.9,5.9,CARDINAL,,,en,2.8
-late-evening,late-evening,TIME,,,en,2.8
 about 11:15 p.m.,about 11:15 p.m.,TIME,,,en,2.8
 at least 40,at least 40,CARDINAL,,,en,2.8
+late-evening,late-evening,TIME,,,en,2.8
 Apr 27,Apr 27,DATE,,,en,2.8
 July 30,July 30,DATE,,,en,2.8
 +12 chars,+12 chars,WORK_OF_ART,,,en,2.8
@@ -369,7 +369,7 @@ up to 40 centimeters,up to 40 centimeters,QUANTITY,,,en,1.9
 December 8th,December 8th,DATE,,,en,1.9
 last summer,last summer,DATE,,,en,1.9
 Silverpit Crater,Silverpit Crater,FAC,,,en,1.9
-10 kilometers,10 kilometers,QUANTITY,,,en,1.9
+monthly,monthly,DATE,,,en,1.9
 67 miles,67 miles,QUANTITY,,,en,1.9
 the last few days,the last few days,DATE,,,en,1.9
 7:30 a.m.,7:30 a.m.,TIME,,,en,1.9
@@ -378,7 +378,7 @@ around one million,around one million,CARDINAL,,,en,1.9
 10:48am,10:48am,CARDINAL,,,en,1.9
 First,First,ORDINAL,,,en,1.9
 March,March,DATE,,,en,1.9
-monthly,monthly,DATE,,,en,1.9
+10 kilometers,10 kilometers,QUANTITY,,,en,1.9
 68 kilometers,68 kilometers,QUANTITY,,,en,1.9
 Malaysian,Malaysian,NORP,,,en,1.9
 one-metre,one-metre,QUANTITY,,,en,1.9
@@ -639,9 +639,9 @@ Ayodhya,Ayodhya,NORP,,,en,1.0
 Parliamen,Parliamen,LANGUAGE,,,en,1.0
 the middle of the night,the middle of the night,TIME,,,en,1.0
 Aug 15,Aug 15,DATE,,,en,1.0
-at least two,at least two,CARDINAL,,,en,1.0
 At least 47,At least 47,CARDINAL,,,en,1.0
 Sora 2,Sora 2,WORK_OF_ART,,,en,1.0
+at least two,at least two,CARDINAL,,,en,1.0
 Pacific Ring of Fire,Pacific Ring of Fire,FAC,,,en,1.0
 E Nusa Tenggara,E Nusa Tenggara,PRODUCT,,,en,1.0
 three hours,three hours,TIME,,,en,1.0
@@ -1051,10 +1051,10 @@ M6.7,M6.7,MONEY,,,en,1.0
 Christmas,Christmas,DATE,,,en,1.0
 the year,the year,DATE,,,en,1.0
 "153,074","153,074",CARDINAL,,,en,1.0
+20km,20km,QUANTITY,,,en,1.0
 October,October,DATE,,,en,1.0
 11.44am,11.44am,CARDINAL,,,en,1.0
 10.44am,10.44am,CARDINAL,,,en,1.0
-20km,20km,QUANTITY,,,en,1.0
 December 12,December 12,DATE,,,en,1.0
 2025-12-12,2025-12-12,DATE,,,en,1.0
 11:44 a.m.,11:44 a.m.,TIME,,,en,1.0
